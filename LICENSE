@@ -1,0 +1,12 @@
+FieldDock licensing notice / 项目授权说明
+Copyright (c) 2026 fairank, to the extent of protectable contributions owned by fairank.
+
+This is a source-available project for noncommercial use, not an OSI-approved open-source project.
+
+Original FieldDock source code, documentation, board placement and routing, mechanical CAD, and branding are offered under LICENSES/FieldDock-NC-1.0.txt, only to the extent fairank owns and can license the relevant rights. Personal paid prototype fabrication is expressly allowed by that license. Commercial use of covered materials requires separate written permission.
+
+Third-party library entries and their modified portions retain their upstream licenses. Embedded KiCad data in electronic designs uses the KiCad library exception. Standalone KiCad library subsets remain CC BY-SA 4.0 with that exception. The two renamed KiCad MOSFET symbols in the mixed FieldDock symbol library are specifically excluded from FieldDock NC restrictions. See licensing/FILE-REVIEW.md, licensing/library-inventory.csv and THIRD_PARTY_NOTICES.md.
+
+References to Flipper circuit topologies are acknowledged. No Flipper original drawing PDFs, firmware or 3D models are included. This license does not claim ownership of functional ideas, methods, component facts, independent implementations, upstream expression or other third-party rights. Future incorporation of upstream code or models must be reviewed under its applicable license.
+
+本项目原创贡献在权利人依法有权许可的范围内，适用 FieldDock 非商业许可；个人样机可委托收费代工。商业利用相关许可材料须另行取得书面许可。第三方部分继续适用其自身条款，NC 不限制技术事实、通用方法或真正独立创作。实际工程成熟度以每版检查记录为准；署名和许可证不构成侵权判定或诉讼结果保证。
