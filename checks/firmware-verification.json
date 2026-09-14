@@ -1,0 +1,85 @@
+{
+  "status": "PASS_HOST_TESTS_AND_ARM_OBJECT_COMPILATION",
+  "records": [
+    {
+      "command": [
+        "zig",
+        "cc",
+        "-std=c99",
+        "-Wall",
+        "-Wextra",
+        "-Werror",
+        "-pedantic",
+        "-I",
+        "PROJECT_ROOT\\firmware\\include",
+        "PROJECT_ROOT\\firmware\\src\\fd_cc1101.c",
+        "PROJECT_ROOT\\firmware\\src\\fd_power.c",
+        "PROJECT_ROOT\\firmware\\tests\\test_core.c",
+        "-o",
+        "PROJECT_ROOT\\firmware\\build\\test_core.exe"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "PROJECT_ROOT\\firmware\\build\\test_core.exe"
+      ],
+      "returncode": 0,
+      "stdout": "PASS: SPI timeout/bus cleanup/atomic ID; source budget/fault/stale/suspend/overload/stop policy; 60 GPIO mappings.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "zig",
+        "cc",
+        "-std=c99",
+        "-Wall",
+        "-Wextra",
+        "-Werror",
+        "-pedantic",
+        "-I",
+        "PROJECT_ROOT\\firmware\\include",
+        "-target",
+        "thumb-freestanding-eabi",
+        "-mcpu=cortex_m4",
+        "-ffreestanding",
+        "-c",
+        "PROJECT_ROOT\\firmware\\src\\fd_cc1101.c",
+        "-o",
+        "PROJECT_ROOT\\firmware\\build\\fd_cc1101.o"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "zig",
+        "cc",
+        "-std=c99",
+        "-Wall",
+        "-Wextra",
+        "-Werror",
+        "-pedantic",
+        "-I",
+        "PROJECT_ROOT\\firmware\\include",
+        "-target",
+        "thumb-freestanding-eabi",
+        "-mcpu=cortex_m4",
+        "-ffreestanding",
+        "-c",
+        "PROJECT_ROOT\\firmware\\src\\fd_power.c",
+        "-o",
+        "PROJECT_ROOT\\firmware\\build\\fd_power.o"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "scope": "Host mock callbacks and pure power policy; Cortex-M4 freestanding objects. No firmware image, SDK integration, hardware test or measured timing.",
+  "hardware_tested": false,
+  "command_paths_normalized": true
+}

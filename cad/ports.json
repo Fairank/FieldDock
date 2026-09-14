@@ -1,0 +1,171 @@
+[
+  {
+    "ref": "J1",
+    "name": "REGULATED_3V3_IN",
+    "pins": {
+      "1": "V3V3",
+      "2": "GND"
+    },
+    "role": "Input from regulated power board; no raw USB VBUS"
+  },
+  {
+    "ref": "J2",
+    "name": "USB_FRONTEND",
+    "pins": {
+      "1": "GND",
+      "2": "USB_DM",
+      "3": "USB_DP",
+      "4": "GND",
+      "5": "PHONE_ATTACHED",
+      "6": "GND"
+    },
+    "role": "Short USB interconnect to protected front end; not UART"
+  },
+  {
+    "ref": "J3",
+    "name": "POWER_CONTROL",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "MGMT_SCL",
+      "4": "MGMT_SDA",
+      "5": "MGMT_IRQ_N",
+      "6": "EXT_GOOD",
+      "7": "EXT_REQUEST",
+      "8": "TOOLS_ENABLE"
+    },
+    "role": "V3V3 is logic reference; external power valid and budget enforced downstream"
+  },
+  {
+    "ref": "J4",
+    "name": "SWD_RECOVERY",
+    "pins": {
+      "1": "V3V3",
+      "2": "SWDIO",
+      "3": "SWCLK",
+      "4": "NRST",
+      "5": "GND"
+    },
+    "role": "Custom five-pin programming connector; V3V3 is VTREF"
+  },
+  {
+    "ref": "J5",
+    "name": "SUBGHZ_FRONTEND",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "TOOL_SCK",
+      "4": "GND",
+      "5": "TOOL_MOSI",
+      "6": "TOOL_MISO",
+      "7": "SUB_CS_N",
+      "8": "SUB_GDO0",
+      "9": "SUB_GDO2",
+      "10": "TOOLS_ENABLE"
+    },
+    "role": "Internal logic only; protected dedicated supply on sub-board"
+  },
+  {
+    "ref": "J6",
+    "name": "NFC_FRONTEND",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "TOOL_SCK",
+      "4": "GND",
+      "5": "TOOL_MOSI",
+      "6": "TOOL_MISO",
+      "7": "NFC_CS_N",
+      "8": "NFC_IRQ",
+      "9": "TOOLS_ENABLE",
+      "10": "GND"
+    },
+    "role": "SPI1 shared; only one chip select low; NFC RF front end separate"
+  },
+  {
+    "ref": "J7",
+    "name": "LF_FRONTEND",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "LF_CARRIER",
+      "4": "LF_LOAD",
+      "5": "LF_EDGE",
+      "6": "LF_ANALOG",
+      "7": "LF_REQUEST",
+      "8": "TOOLS_ENABLE"
+    },
+    "role": "Analog input must remain within 0..VDDA; never connect coil directly"
+  },
+  {
+    "ref": "J8",
+    "name": "IR_IBUTTON_FEEDBACK",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "IR_EDGE",
+      "4": "IR_CARRIER",
+      "5": "IBTN_EDGE",
+      "6": "IBTN_DRIVE",
+      "7": "BEEP_PWM",
+      "8": "VIBRO_EN",
+      "9": "TOOLS_ENABLE",
+      "10": "AUX_CAPTURE",
+      "11": "GND",
+      "12": "GND"
+    },
+    "role": "All sensor/LED/motor/contact drivers and exposed-node protection on front-end board"
+  },
+  {
+    "ref": "J9",
+    "name": "TARGET_IO_FRONTEND",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "TARGET_SCK",
+      "4": "TARGET_MISO",
+      "5": "TARGET_MOSI",
+      "6": "TARGET_CS_N",
+      "7": "TARGET_TX",
+      "8": "TARGET_RX",
+      "9": "TARGET_SCL",
+      "10": "TARGET_SDA",
+      "11": "TARGET_IO0",
+      "12": "TARGET_IO1",
+      "13": "TOOLS_ENABLE",
+      "14": "GND",
+      "15": "TARGET_IO2",
+      "16": "TARGET_IO3",
+      "17": "TARGET_IO4"
+    },
+    "role": "Internal interface to protected, level-selectable user GPIO adapter"
+  },
+  {
+    "ref": "J10",
+    "name": "CSI_GATEWAY_CONTROL",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "CSI_TX",
+      "4": "CSI_RX",
+      "5": "CSI_IRQ",
+      "6": "CSI_REQUEST"
+    },
+    "role": "UART commands/status only; CSI bulk samples use node link to host"
+  },
+  {
+    "ref": "J11",
+    "name": "MICROSD_DAUGHTER",
+    "pins": {
+      "1": "GND",
+      "2": "V3V3",
+      "3": "TOOL_SCK",
+      "4": "TOOL_MOSI",
+      "5": "TOOL_MISO",
+      "6": "SD_CS_N",
+      "7": "SD_DETECT_N",
+      "8": "GND"
+    },
+    "role": "Legacy logical group only: switched and buffered SPI microSD now resides on the mainboard"
+  }
+]

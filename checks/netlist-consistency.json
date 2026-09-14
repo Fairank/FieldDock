@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "physical_refs": 420,
+  "assigned_pin_mappings": 1260,
+  "mismatches": [],
+  "unexpected_connected_pins": [],
+  "intentionally_unconnected_pins": 57,
+  "scope": "KiCad-exported netlist compared against current design description. PCB geometry and routing checked separately."
+}

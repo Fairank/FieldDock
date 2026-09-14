@@ -1,0 +1,458 @@
+{
+  "board_mm": [
+    94,
+    40,
+    1.6
+  ],
+  "case_mm": [
+    100,
+    46,
+    18
+  ],
+  "pcb_bottom_z": 5.7,
+  "pcb_top_z": 7.300000000000001,
+  "body_reference_count": 395,
+  "min_bottom_component_floor_clearance": 0.6000000000000001,
+  "max_front_component_top": 15.8,
+  "parts": [
+    {
+      "id": "M01_base",
+      "title": "100 x 46 lower shell / fit prototype",
+      "color": "#5e7285",
+      "category": "fabricated",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 0,
+      "notes": "1.6 mm walls; M2 thread-forming screw pilot 1.6 mm. Port cutouts track current PCB; shrink and tolerances not qualified.",
+      "bbox_mm": [
+        -23.0,
+        -50.0,
+        -0.0,
+        23.0,
+        50.0,
+        16.0
+      ],
+      "volume_mm3": 13221.480332281673,
+      "solids": 1,
+      "triangles": 35244,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 13214.719645896683,
+      "mesh_volume_relative_error": 0.0005113411066749918
+    },
+    {
+      "id": "M02_lid",
+      "title": "Outward non-metal lid / fit prototype",
+      "color": "#dbe2e8",
+      "category": "fabricated",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 35,
+      "notes": "GPIO access, confirmation/stop plunger apertures and hardware slide-switch access. No ingress/impact rating.",
+      "bbox_mm": [
+        -23.0,
+        -50.0,
+        7.3,
+        23.0,
+        50.0,
+        18.0
+      ],
+      "volume_mm3": 8534.541663514063,
+      "solids": 1,
+      "triangles": 42496,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 8533.5862215989,
+      "mesh_volume_relative_error": 0.00011194999717997016
+    },
+    {
+      "id": "E01_pcb",
+      "title": "Actual 94 x 40 x 1.6 PCB datum and mounting holes",
+      "color": "#237b66",
+      "category": "pcb_geometry",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 8,
+      "notes": "Actual board outline and current four 2.4 mm holes; copper not included in mechanical STEP.",
+      "bbox_mm": [
+        -20.0,
+        -47.0,
+        5.7,
+        20.0,
+        47.0,
+        7.3
+      ],
+      "volume_mm3": 5981.553275087494,
+      "solids": 1,
+      "triangles": 9036,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 5981.594788665919,
+      "mesh_volume_relative_error": 6.940267271046479e-06
+    },
+    {
+      "id": "E_SMT_F",
+      "title": "Current F-side component envelopes",
+      "color": "#384b5b",
+      "category": "component_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 8,
+      "notes": "Every populated reference tied to placement; XY uses conservative courtyard. Not exact supplier geometry.",
+      "bbox_mm": [
+        -19.78,
+        -48.68,
+        7.3,
+        19.41,
+        45.8,
+        15.8
+      ],
+      "volume_mm3": 5819.146399999972,
+      "solids": 203,
+      "triangles": 5584,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 5819.146400000031,
+      "mesh_volume_relative_error": 1.000278338305214e-14
+    },
+    {
+      "id": "E_SMT_B",
+      "title": "Current B-side component envelopes",
+      "color": "#7f99a6",
+      "category": "component_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 8,
+      "notes": "Every populated reference tied to placement; XY uses conservative courtyard. Not exact supplier geometry.",
+      "bbox_mm": [
+        -19.73,
+        -42.23,
+        2.2,
+        19.1,
+        39.55,
+        5.7
+      ],
+      "volume_mm3": 1832.3740999999907,
+      "solids": 192,
+      "triangles": 4552,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 1832.3740999999955,
+      "mesh_volume_relative_error": 2.6058255158201033e-15
+    },
+    {
+      "id": "M03_coil_carrier",
+      "title": "Dual-coil fit carrier",
+      "color": "#abb9c2",
+      "category": "fabricated",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 21,
+      "notes": "30 x 34 NFC and 23 x 21 LF winding envelopes; nominal inductances not guaranteed.",
+      "bbox_mm": [
+        -15.25,
+        6.25,
+        13.7,
+        17.25,
+        42.75,
+        14.3
+      ],
+      "volume_mm3": 696.2736771283192,
+      "solids": 1,
+      "triangles": 2570,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 696.3351315900438,
+      "mesh_volume_relative_error": 8.826193455731284e-05
+    },
+    {
+      "id": "E_FERRITE",
+      "title": "Ferrite material reservation",
+      "color": "#4e5963",
+      "category": "material_reserved",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 21,
+      "notes": "Material permeability/loss must suit 125 kHz and 13.56 MHz; composition and adhesive not selected.",
+      "bbox_mm": [
+        -15.0,
+        6.5,
+        13.2,
+        17.0,
+        42.5,
+        13.7
+      ],
+      "volume_mm3": 563.6441819648328,
+      "solids": 1,
+      "triangles": 2328,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 563.694264574487,
+      "mesh_volume_relative_error": 8.885501040671338e-05
+    },
+    {
+      "id": "E_NFC_COIL",
+      "title": "NFC winding envelope",
+      "color": "#ca9b58",
+      "category": "antenna_reserved",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 23,
+      "notes": "Winding envelope only. Start with removable winding; tune installed coil and matching using VNA/LCR.",
+      "bbox_mm": [
+        -14.0,
+        7.5,
+        14.4,
+        16.0,
+        41.5,
+        14.8
+      ],
+      "volume_mm3": 115.68230016469265,
+      "solids": 1,
+      "triangles": 2098,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 115.66384634084021,
+      "mesh_volume_relative_error": 0.00015952158477284444
+    },
+    {
+      "id": "E_LF_COIL",
+      "title": "LF winding envelope",
+      "color": "#b77641",
+      "category": "antenna_reserved",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 23,
+      "notes": "500 uH is circuit target; turns and Q require winding measurement.",
+      "bbox_mm": [
+        -10.5,
+        17.0,
+        14.4,
+        12.5,
+        38.0,
+        15.5
+      ],
+      "volume_mm3": 208.12632545290398,
+      "solids": 1,
+      "triangles": 2688,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 208.03403115965938,
+      "mesh_volume_relative_error": 0.0004434532394869535
+    },
+    {
+      "id": "S_M2_1",
+      "title": "M2 x 16 screw nominal envelope",
+      "color": "#9caab4",
+      "category": "fastener_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 42,
+      "notes": "Thread geometry omitted; verify pilot, screw length and pull-out in chosen printing process.",
+      "bbox_mm": [
+        -19.0,
+        25.0,
+        2.0,
+        -15.0,
+        29.0,
+        18.0
+      ],
+      "volume_mm3": 55.29203070318036,
+      "solids": 1,
+      "triangles": 8218,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 55.085157866124675,
+      "mesh_volume_relative_error": 0.0037414584782791286
+    },
+    {
+      "id": "S_M2_2",
+      "title": "M2 x 16 screw nominal envelope",
+      "color": "#9caab4",
+      "category": "fastener_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 42,
+      "notes": "Thread geometry omitted; verify pilot, screw length and pull-out in chosen printing process.",
+      "bbox_mm": [
+        15.0,
+        41.0,
+        2.0,
+        19.0,
+        45.0,
+        18.0
+      ],
+      "volume_mm3": 55.292030703180345,
+      "solids": 1,
+      "triangles": 8218,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 55.08504240307873,
+      "mesh_volume_relative_error": 0.003743546718563693
+    },
+    {
+      "id": "S_M2_3",
+      "title": "M2 x 16 screw nominal envelope",
+      "color": "#9caab4",
+      "category": "fastener_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 42,
+      "notes": "Thread geometry omitted; verify pilot, screw length and pull-out in chosen printing process.",
+      "bbox_mm": [
+        -19.0,
+        -34.0,
+        2.0,
+        -15.0,
+        -30.0,
+        18.0
+      ],
+      "volume_mm3": 55.292030703180345,
+      "solids": 1,
+      "triangles": 8234,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 55.08523857321381,
+      "mesh_volume_relative_error": 0.0037399988268950065
+    },
+    {
+      "id": "S_M2_4",
+      "title": "M2 x 16 screw nominal envelope",
+      "color": "#9caab4",
+      "category": "fastener_envelope",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 42,
+      "notes": "Thread geometry omitted; verify pilot, screw length and pull-out in chosen printing process.",
+      "bbox_mm": [
+        -2.0,
+        -46.0,
+        2.0,
+        2.0,
+        -42.0,
+        18.0
+      ],
+      "volume_mm3": 55.29203070318033,
+      "solids": 1,
+      "triangles": 8232,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 55.085789229751114,
+      "mesh_volume_relative_error": 0.0037300397689563137
+    },
+    {
+      "id": "M_SW2_plunger",
+      "title": "SW2 button plunger fit",
+      "color": "#94aba7",
+      "category": "fabricated",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 35,
+      "notes": "0.2 mm initial actuator gap; retained button cap and stroke require switch drawing and fit test.",
+      "bbox_mm": [
+        -1.3,
+        12.6,
+        11.0,
+        2.5,
+        16.4,
+        17.8
+      ],
+      "volume_mm3": 77.11981646032226,
+      "solids": 1,
+      "triangles": 2286,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 76.83245164114803,
+      "mesh_volume_relative_error": 0.0037262124362300157
+    },
+    {
+      "id": "M_SW3_plunger",
+      "title": "SW3 button plunger fit",
+      "color": "#94aba7",
+      "category": "fabricated",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": 35,
+      "notes": "0.2 mm initial actuator gap; retained button cap and stroke require switch drawing and fit test.",
+      "bbox_mm": [
+        -1.3,
+        2.1,
+        11.0,
+        2.5,
+        5.9,
+        17.8
+      ],
+      "volume_mm3": 77.11981646032226,
+      "solids": 1,
+      "triangles": 2284,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 76.83193445107126,
+      "mesh_volume_relative_error": 0.0037329187550531376
+    },
+    {
+      "id": "M04_mount_plate",
+      "title": "Phone-case mounting plate fit",
+      "color": "#8799a8",
+      "category": "mount_prototype",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "explode": -8,
+      "notes": "Mount geometry prototype; latch/adhesive/camera clearance and iPhone case dimensions not frozen.",
+      "bbox_mm": [
+        -21.0,
+        -38.5,
+        -1.6,
+        21.0,
+        26.5,
+        -0.4
+      ],
+      "volume_mm3": 3266.7292006587695,
+      "solids": 1,
+      "triangles": 1994,
+      "nonmanifold_edges": 0,
+      "mesh_signed_volume_mm3": 3266.599823505999,
+      "mesh_volume_relative_error": 3.96044926969192e-05
+    }
+  ],
+  "manufacturing_release": false,
+  "limits": [
+    "Component heights are envelopes, exact supplier STEP and mounting force not checked.",
+    "Coils are winding spaces, not electrically complete antennas.",
+    "No final Sub-GHz internal antenna; coax test passage provided.",
+    "Phone retention, optics and plunger retention remain unfinished."
+  ]
+}

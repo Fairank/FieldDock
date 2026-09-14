@@ -1,0 +1,7507 @@
+[
+  {
+    "ref": "U1",
+    "side": "F",
+    "x": -13.900000000000006,
+    "y": 39.7,
+    "w": 7.800000000000011,
+    "h": 11.5,
+    "height": 1.382,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.80000000000001,
+      33.95,
+      7.300000000000001,
+      -10.0,
+      45.45,
+      8.682
+    ]
+  },
+  {
+    "ref": "J101",
+    "side": "F",
+    "x": -12.5,
+    "y": -44.21000000000001,
+    "w": 10.639999999999986,
+    "h": 8.939999999999998,
+    "height": 3.3,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.819999999999993,
+      -48.68000000000001,
+      7.300000000000001,
+      -7.180000000000007,
+      -39.74000000000001,
+      10.600000000000001
+    ]
+  },
+  {
+    "ref": "J102",
+    "side": "F",
+    "x": 12.5,
+    "y": -44.21000000000001,
+    "w": 10.639999999999986,
+    "h": 8.939999999999998,
+    "height": 3.3,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.180000000000007,
+      -48.68000000000001,
+      7.300000000000001,
+      17.819999999999993,
+      -39.74000000000001,
+      10.600000000000001
+    ]
+  },
+  {
+    "ref": "J430",
+    "side": "F",
+    "x": 9.625,
+    "y": 19.200000000000003,
+    "w": 4.349999999999994,
+    "h": 5.0,
+    "height": 0.1,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.450000000000003,
+      16.700000000000003,
+      7.300000000000001,
+      11.799999999999997,
+      21.700000000000003,
+      7.4
+    ]
+  },
+  {
+    "ref": "U430",
+    "side": "F",
+    "x": 6.900000000000006,
+    "y": 35.0,
+    "w": 5.259999999999991,
+    "h": 5.259999999999998,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.27000000000001,
+      32.370000000000005,
+      7.300000000000001,
+      9.530000000000001,
+      37.63,
+      8.55
+    ]
+  },
+  {
+    "ref": "T430",
+    "side": "F",
+    "x": 13.5,
+    "y": 35.0,
+    "w": 3.039999999999992,
+    "h": 2.289999999999999,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.980000000000004,
+      33.855000000000004,
+      7.300000000000001,
+      15.019999999999996,
+      36.145,
+      8.55
+    ]
+  },
+  {
+    "ref": "U431",
+    "side": "F",
+    "x": 14.599999999999994,
+    "y": 30.400000000000006,
+    "w": 2.0999999999999943,
+    "h": 2.0999999999999943,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      13.549999999999997,
+      29.35000000000001,
+      7.300000000000001,
+      15.649999999999991,
+      31.450000000000003,
+      8.55
+    ]
+  },
+  {
+    "ref": "U432",
+    "side": "F",
+    "x": 14.599999999999994,
+    "y": 20.0,
+    "w": 2.0999999999999943,
+    "h": 2.0999999999999943,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      13.549999999999997,
+      18.950000000000003,
+      7.300000000000001,
+      15.649999999999991,
+      21.049999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "J700",
+    "side": "F",
+    "x": 13.400000000000006,
+    "y": -4.599999999999994,
+    "w": 11.740000000000009,
+    "h": 21.319999999999993,
+    "height": 8.5,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.530000000000001,
+      -15.259999999999991,
+      7.300000000000001,
+      19.27000000000001,
+      6.060000000000002,
+      15.8
+    ]
+  },
+  {
+    "ref": "J730",
+    "side": "B",
+    "x": 15.900000000000006,
+    "y": -22.700000000000003,
+    "w": 6.400000000000006,
+    "h": 14.460000000000008,
+    "height": 3.0,
+    "z": 2.7,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.700000000000003,
+      -29.930000000000007,
+      2.7,
+      19.10000000000001,
+      -15.469999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "J301",
+    "side": "F",
+    "x": -10.930000000000007,
+    "y": -15.930000000000007,
+    "w": 17.69999999999999,
+    "h": 15.700000000000003,
+    "height": 1.83,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.78,
+      -23.78,
+      7.300000000000001,
+      -2.0800000000000125,
+      -8.079999999999998,
+      9.13
+    ]
+  },
+  {
+    "ref": "U500",
+    "side": "F",
+    "x": -11.5,
+    "y": 15.0,
+    "w": 6.0,
+    "h": 6.0,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.5,
+      12.0,
+      7.300000000000001,
+      -8.5,
+      18.0,
+      8.55
+    ]
+  },
+  {
+    "ref": "SW2",
+    "side": "F",
+    "x": 0.5999999999999943,
+    "y": 14.5,
+    "w": 6.0,
+    "h": 8.5,
+    "height": 3.5,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.4000000000000057,
+      10.25,
+      7.300000000000001,
+      3.5999999999999943,
+      18.75,
+      10.8
+    ]
+  },
+  {
+    "ref": "SW3",
+    "side": "F",
+    "x": 0.5999999999999943,
+    "y": 4.0,
+    "w": 6.0,
+    "h": 8.5,
+    "height": 3.5,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.4000000000000057,
+      -0.25,
+      7.300000000000001,
+      3.5999999999999943,
+      8.25,
+      10.8
+    ]
+  },
+  {
+    "ref": "SW4",
+    "side": "F",
+    "x": 2.674999999999997,
+    "y": -19.5,
+    "w": 8.75,
+    "h": 10.0,
+    "height": 4.0,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.7000000000000028,
+      -24.5,
+      7.300000000000001,
+      7.049999999999997,
+      -14.5,
+      11.3
+    ]
+  },
+  {
+    "ref": "SW1",
+    "side": "B",
+    "x": -14.0,
+    "y": -27.0,
+    "w": 8.5,
+    "h": 6.0,
+    "height": 3.5,
+    "z": 2.2,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.25,
+      -30.0,
+      2.2,
+      -9.75,
+      -24.0,
+      5.7
+    ]
+  },
+  {
+    "ref": "SW5",
+    "side": "B",
+    "x": -4.0,
+    "y": -27.0,
+    "w": 8.5,
+    "h": 6.0,
+    "height": 3.5,
+    "z": 2.2,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.25,
+      -30.0,
+      2.2,
+      0.25,
+      -24.0,
+      5.7
+    ]
+  },
+  {
+    "ref": "BZ740",
+    "side": "F",
+    "x": -1.0999999999999943,
+    "y": 26.200000000000003,
+    "w": 10.0,
+    "h": 10.0,
+    "height": 1.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.099999999999994,
+      21.200000000000003,
+      7.300000000000001,
+      3.9000000000000057,
+      31.200000000000003,
+      9.200000000000001
+    ]
+  },
+  {
+    "ref": "D710",
+    "side": "F",
+    "x": -4.5,
+    "y": 43.5,
+    "w": 4.0,
+    "h": 4.599999999999994,
+    "height": 1.6,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.5,
+      41.2,
+      7.300000000000001,
+      -2.5,
+      45.8,
+      8.9
+    ]
+  },
+  {
+    "ref": "D711",
+    "side": "F",
+    "x": -0.29999999999999716,
+    "y": 43.5,
+    "w": 4.0,
+    "h": 4.599999999999994,
+    "height": 1.6,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.299999999999997,
+      41.2,
+      7.300000000000001,
+      1.7000000000000028,
+      45.8,
+      8.9
+    ]
+  },
+  {
+    "ref": "D712",
+    "side": "F",
+    "x": 3.9000000000000057,
+    "y": 43.5,
+    "w": 4.0,
+    "h": 4.599999999999994,
+    "height": 1.6,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      1.9000000000000057,
+      41.2,
+      7.300000000000001,
+      5.900000000000006,
+      45.8,
+      8.9
+    ]
+  },
+  {
+    "ref": "U712",
+    "side": "F",
+    "x": 14.799999999999997,
+    "y": 13.099999999999994,
+    "w": 7.800000000000011,
+    "h": 6.800000000000011,
+    "height": 3.5,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.899999999999991,
+      9.699999999999989,
+      7.300000000000001,
+      18.700000000000003,
+      16.5,
+      10.8
+    ]
+  },
+  {
+    "ref": "U202",
+    "side": "F",
+    "x": 4.700000000000003,
+    "y": -29.69999999999999,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999915,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.6500000000000057,
+      -31.399999999999977,
+      7.300000000000001,
+      6.75,
+      -27.999999999999986,
+      8.75
+    ]
+  },
+  {
+    "ref": "L201",
+    "side": "F",
+    "x": 12.299999999999997,
+    "y": -29.69999999999999,
+    "w": 9.0,
+    "h": 8.5,
+    "height": 4,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.799999999999997,
+      -33.94999999999999,
+      7.300000000000001,
+      16.799999999999997,
+      -25.44999999999999,
+      11.3
+    ]
+  },
+  {
+    "ref": "U201",
+    "side": "F",
+    "x": 0.0,
+    "y": -39.80000000000001,
+    "w": 2.6399999999999864,
+    "h": 2.6000000000000227,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.3199999999999932,
+      -41.10000000000002,
+      7.300000000000001,
+      1.3199999999999932,
+      -38.5,
+      8.55
+    ]
+  },
+  {
+    "ref": "U110",
+    "side": "F",
+    "x": -12.0,
+    "y": -33.0,
+    "w": 2.8000000000000114,
+    "h": 2.8000000000000114,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.400000000000006,
+      -34.400000000000006,
+      7.300000000000001,
+      -10.599999999999994,
+      -31.599999999999994,
+      8.55
+    ]
+  },
+  {
+    "ref": "U111",
+    "side": "F",
+    "x": -15.400000000000006,
+    "y": -38.0,
+    "w": 2.9000000000000057,
+    "h": 2.8999999999999773,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.85000000000001,
+      -39.44999999999999,
+      7.300000000000001,
+      -13.950000000000003,
+      -36.55000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "U112",
+    "side": "F",
+    "x": -7.400000000000006,
+    "y": -36.30000000000001,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.450000000000003,
+      -38.0,
+      7.300000000000001,
+      -5.3500000000000085,
+      -34.60000000000002,
+      8.75
+    ]
+  },
+  {
+    "ref": "U113",
+    "side": "F",
+    "x": -7.400000000000006,
+    "y": -32.400000000000006,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.450000000000003,
+      -34.099999999999994,
+      7.300000000000001,
+      -5.3500000000000085,
+      -30.700000000000017,
+      8.75
+    ]
+  },
+  {
+    "ref": "U150",
+    "side": "F",
+    "x": 12.0,
+    "y": -38.0,
+    "w": 2.8000000000000114,
+    "h": 2.8000000000000114,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.599999999999994,
+      -39.400000000000006,
+      7.300000000000001,
+      13.400000000000006,
+      -36.599999999999994,
+      8.55
+    ]
+  },
+  {
+    "ref": "U151",
+    "side": "F",
+    "x": 16.400000000000006,
+    "y": -38.099999999999994,
+    "w": 2.9000000000000057,
+    "h": 2.8999999999999773,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.950000000000003,
+      -39.54999999999998,
+      7.300000000000001,
+      17.85000000000001,
+      -36.650000000000006,
+      8.55
+    ]
+  },
+  {
+    "ref": "U152",
+    "side": "F",
+    "x": 4.400000000000006,
+    "y": -40.19999999999999,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.3500000000000085,
+      -41.89999999999998,
+      7.300000000000001,
+      6.450000000000003,
+      -38.5,
+      8.75
+    ]
+  },
+  {
+    "ref": "U153",
+    "side": "F",
+    "x": 6.5,
+    "y": -36.5,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.450000000000003,
+      -38.19999999999999,
+      7.300000000000001,
+      8.549999999999997,
+      -34.80000000000001,
+      8.75
+    ]
+  },
+  {
+    "ref": "U604",
+    "side": "B",
+    "x": -12.0,
+    "y": 13.5,
+    "w": 6.360000000000014,
+    "h": 3.5,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.180000000000007,
+      11.75,
+      4.45,
+      -8.819999999999993,
+      15.25,
+      5.7
+    ]
+  },
+  {
+    "ref": "U605",
+    "side": "B",
+    "x": -12.0,
+    "y": 6.0,
+    "w": 6.360000000000014,
+    "h": 3.5,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.180000000000007,
+      4.25,
+      4.45,
+      -8.819999999999993,
+      7.75,
+      5.7
+    ]
+  },
+  {
+    "ref": "U606",
+    "side": "B",
+    "x": -15.0,
+    "y": 1.0,
+    "w": 2.9000000000000057,
+    "h": 2.1999999999999886,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.450000000000003,
+      -0.09999999999999432,
+      4.45,
+      -13.549999999999997,
+      2.0999999999999943,
+      5.7
+    ]
+  },
+  {
+    "ref": "U700",
+    "side": "B",
+    "x": 8.0,
+    "y": 2.0,
+    "w": 7.699999999999989,
+    "h": 7.0,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.150000000000006,
+      -1.5,
+      4.45,
+      11.849999999999994,
+      5.5,
+      5.7
+    ]
+  },
+  {
+    "ref": "U701",
+    "side": "B",
+    "x": 8.0,
+    "y": -7.0,
+    "w": 7.699999999999989,
+    "h": 7.0,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.150000000000006,
+      -10.5,
+      4.45,
+      11.849999999999994,
+      -3.5,
+      5.7
+    ]
+  },
+  {
+    "ref": "U732",
+    "side": "B",
+    "x": 7.5,
+    "y": -23.799999999999997,
+    "w": 7.699999999999989,
+    "h": 7.0,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.6500000000000057,
+      -27.299999999999997,
+      4.45,
+      11.349999999999994,
+      -20.299999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U302",
+    "side": "B",
+    "x": -9.0,
+    "y": -13.0,
+    "w": 7.699999999999989,
+    "h": 5.5,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.849999999999994,
+      -15.75,
+      4.45,
+      -5.150000000000006,
+      -10.25,
+      5.7
+    ]
+  },
+  {
+    "ref": "U303",
+    "side": "B",
+    "x": -2.0,
+    "y": -17.5,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.049999999999997,
+      -19.200000000000003,
+      4.25,
+      0.04999999999999716,
+      -15.799999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U403",
+    "side": "B",
+    "x": -2.0,
+    "y": 22.0,
+    "w": 7.699999999999989,
+    "h": 7.0,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.849999999999994,
+      18.5,
+      4.45,
+      1.8499999999999943,
+      25.5,
+      5.7
+    ]
+  },
+  {
+    "ref": "U190",
+    "side": "B",
+    "x": -14.5,
+    "y": -37.0,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.549999999999997,
+      -38.69999999999999,
+      4.25,
+      -12.450000000000003,
+      -35.30000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "U195",
+    "side": "B",
+    "x": 9.0,
+    "y": -33.5,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999773,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.950000000000003,
+      -35.19999999999999,
+      4.25,
+      11.049999999999997,
+      -31.80000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "Y430",
+    "side": "F",
+    "x": 6.900000000000006,
+    "y": 30.0,
+    "w": 3.0,
+    "h": 2.5999999999999943,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      5.400000000000006,
+      28.700000000000003,
+      7.300000000000001,
+      8.400000000000006,
+      31.299999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "C430",
+    "side": "F",
+    "x": 4.400000000000006,
+    "y": 30.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.940000000000012,
+      29.090000000000003,
+      7.300000000000001,
+      4.859999999999999,
+      30.909999999999997,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C431",
+    "side": "F",
+    "x": 9.400000000000006,
+    "y": 30.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.940000000000012,
+      29.090000000000003,
+      7.300000000000001,
+      9.86,
+      30.909999999999997,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R430",
+    "side": "F",
+    "x": 8.5,
+    "y": 38.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.569999999999993,
+      38.03,
+      7.300000000000001,
+      9.430000000000007,
+      38.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C432",
+    "side": "F",
+    "x": 3.200000000000003,
+    "y": 34.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.2900000000000063,
+      33.540000000000006,
+      7.300000000000001,
+      4.109999999999999,
+      34.459999999999994,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C433",
+    "side": "F",
+    "x": 3.200000000000003,
+    "y": 35.099999999999994,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.2900000000000063,
+      34.64,
+      7.300000000000001,
+      4.109999999999999,
+      35.55999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C434",
+    "side": "F",
+    "x": 8.5,
+    "y": 31.849999999999994,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.590000000000003,
+      31.39,
+      7.300000000000001,
+      9.409999999999997,
+      32.30999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C435",
+    "side": "F",
+    "x": 10.5,
+    "y": 33.400000000000006,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      32.94000000000001,
+      7.300000000000001,
+      11.409999999999997,
+      33.86,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C436",
+    "side": "F",
+    "x": 10.5,
+    "y": 36.7,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000017,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      36.24,
+      7.300000000000001,
+      11.409999999999997,
+      37.160000000000004,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C437",
+    "side": "F",
+    "x": 10.5,
+    "y": 37.8,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000017,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      37.339999999999996,
+      7.300000000000001,
+      11.409999999999997,
+      38.26,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C438",
+    "side": "F",
+    "x": 3.200000000000003,
+    "y": 32.7,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.2900000000000063,
+      32.24000000000001,
+      7.300000000000001,
+      4.109999999999999,
+      33.16,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C439",
+    "side": "F",
+    "x": 6.400000000000006,
+    "y": 40.0,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999937,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.920000000000002,
+      39.27,
+      7.300000000000001,
+      7.88000000000001,
+      40.73,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C440",
+    "side": "F",
+    "x": 10.5,
+    "y": 35.599999999999994,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999946,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      35.14,
+      7.300000000000001,
+      11.409999999999997,
+      36.059999999999995,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C441",
+    "side": "F",
+    "x": 10.5,
+    "y": 34.5,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      34.040000000000006,
+      7.300000000000001,
+      11.409999999999997,
+      34.959999999999994,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L430",
+    "side": "F",
+    "x": 16.0,
+    "y": 35.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      15.069999999999993,
+      35.03,
+      7.300000000000001,
+      16.930000000000007,
+      35.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L431",
+    "side": "F",
+    "x": 18.0,
+    "y": 35.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.069999999999993,
+      35.03,
+      7.300000000000001,
+      18.930000000000007,
+      35.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C442",
+    "side": "F",
+    "x": 17.0,
+    "y": 37.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.540000000000006,
+      36.09,
+      7.300000000000001,
+      17.459999999999994,
+      37.91,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C446",
+    "side": "F",
+    "x": 16.700000000000003,
+    "y": 31.099999999999994,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.24000000000001,
+      30.189999999999998,
+      7.300000000000001,
+      17.159999999999997,
+      32.00999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C447",
+    "side": "F",
+    "x": 16.700000000000003,
+    "y": 20.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.24000000000001,
+      19.090000000000003,
+      7.300000000000001,
+      17.159999999999997,
+      20.909999999999997,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R432",
+    "side": "F",
+    "x": 12.900000000000006,
+    "y": 18.299999999999997,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.969999999999999,
+      17.83,
+      7.300000000000001,
+      13.830000000000013,
+      18.769999999999996,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "Y500",
+    "side": "F",
+    "x": -17.0,
+    "y": 15.0,
+    "w": 3.0,
+    "h": 2.5999999999999943,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.5,
+      13.700000000000003,
+      7.300000000000001,
+      -15.5,
+      16.299999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "C500",
+    "side": "F",
+    "x": -17.5,
+    "y": 17.299999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.409999999999997,
+      16.840000000000003,
+      7.300000000000001,
+      -16.590000000000003,
+      17.75999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C501",
+    "side": "F",
+    "x": -17.5,
+    "y": 12.700000000000003,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.409999999999997,
+      12.240000000000009,
+      7.300000000000001,
+      -16.590000000000003,
+      13.159999999999997,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C502",
+    "side": "F",
+    "x": -13.5,
+    "y": 19.299999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.409999999999997,
+      18.840000000000003,
+      7.300000000000001,
+      -12.590000000000003,
+      19.75999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C503",
+    "side": "F",
+    "x": -10.0,
+    "y": 20.700000000000003,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.480000000000004,
+      19.97,
+      7.300000000000001,
+      -8.519999999999996,
+      21.430000000000007,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C504",
+    "side": "F",
+    "x": -15.0,
+    "y": 16.5,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.459999999999994,
+      15.590000000000003,
+      7.300000000000001,
+      -14.540000000000006,
+      17.409999999999997,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C505",
+    "side": "F",
+    "x": -16.5,
+    "y": 19.299999999999997,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.980000000000004,
+      18.569999999999993,
+      7.300000000000001,
+      -15.019999999999996,
+      20.03,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C506",
+    "side": "F",
+    "x": -15.200000000000003,
+    "y": 12.700000000000003,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.659999999999997,
+      11.790000000000006,
+      7.300000000000001,
+      -14.740000000000009,
+      13.61,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C507",
+    "side": "F",
+    "x": -16.599999999999994,
+    "y": 10.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.08,
+      9.769999999999996,
+      7.300000000000001,
+      -15.11999999999999,
+      11.230000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C508",
+    "side": "F",
+    "x": -13.400000000000006,
+    "y": 10.799999999999997,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.86,
+      9.89,
+      7.300000000000001,
+      -12.940000000000012,
+      11.709999999999994,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C509",
+    "side": "F",
+    "x": -14.400000000000006,
+    "y": 8.200000000000003,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.88000000000001,
+      7.469999999999999,
+      7.300000000000001,
+      -12.920000000000002,
+      8.930000000000007,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C510",
+    "side": "F",
+    "x": -12.0,
+    "y": 10.700000000000003,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.459999999999994,
+      9.790000000000006,
+      7.300000000000001,
+      -11.540000000000006,
+      11.61,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C511",
+    "side": "F",
+    "x": -12.0,
+    "y": 8.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.730000000000004,
+      6.519999999999996,
+      7.300000000000001,
+      -11.269999999999996,
+      9.480000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C512",
+    "side": "F",
+    "x": -5.0,
+    "y": 17.099999999999994,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.730000000000004,
+      15.61999999999999,
+      7.300000000000001,
+      -4.269999999999996,
+      18.58,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C513",
+    "side": "F",
+    "x": -7.599999999999994,
+    "y": 17.099999999999994,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.059999999999988,
+      16.189999999999998,
+      7.300000000000001,
+      -7.140000000000001,
+      18.00999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C524",
+    "side": "F",
+    "x": -6.5,
+    "y": 14.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -7.980000000000004,
+      13.769999999999996,
+      7.300000000000001,
+      -5.019999999999996,
+      15.230000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C529",
+    "side": "F",
+    "x": -6.5,
+    "y": 12.900000000000006,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -7.980000000000004,
+      12.170000000000002,
+      7.300000000000001,
+      -5.019999999999996,
+      13.63000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C523",
+    "side": "F",
+    "x": -5.099999999999994,
+    "y": 8.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.829999999999998,
+      7.019999999999996,
+      7.300000000000001,
+      -4.36999999999999,
+      9.980000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C528",
+    "side": "F",
+    "x": -3.5,
+    "y": 8.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.230000000000004,
+      7.019999999999996,
+      7.300000000000001,
+      -2.769999999999996,
+      9.980000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "L500",
+    "side": "F",
+    "x": -9.700000000000003,
+    "y": 9.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.430000000000007,
+      8.019999999999996,
+      7.300000000000001,
+      -8.969999999999999,
+      10.980000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "L501",
+    "side": "F",
+    "x": -7.799999999999997,
+    "y": 9.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.530000000000001,
+      8.019999999999996,
+      7.300000000000001,
+      -7.069999999999993,
+      10.980000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C520",
+    "side": "F",
+    "x": -11.700000000000003,
+    "y": 5.700000000000003,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.180000000000007,
+      4.969999999999999,
+      7.300000000000001,
+      -10.219999999999999,
+      6.430000000000007,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C525",
+    "side": "F",
+    "x": -5.5,
+    "y": 5.700000000000003,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.980000000000004,
+      4.969999999999999,
+      7.300000000000001,
+      -4.019999999999996,
+      6.430000000000007,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C521",
+    "side": "F",
+    "x": -9.700000000000003,
+    "y": 3.4000000000000057,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.430000000000007,
+      1.9200000000000017,
+      7.300000000000001,
+      -8.969999999999999,
+      4.88000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C526",
+    "side": "F",
+    "x": -7.799999999999997,
+    "y": 3.4000000000000057,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.530000000000001,
+      1.9200000000000017,
+      7.300000000000001,
+      -7.069999999999993,
+      4.88000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C522",
+    "side": "F",
+    "x": -12.099999999999994,
+    "y": 1.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.579999999999998,
+      0.269999999999996,
+      7.300000000000001,
+      -10.61999999999999,
+      1.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C527",
+    "side": "F",
+    "x": -5.5,
+    "y": 1.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.980000000000004,
+      0.269999999999996,
+      7.300000000000001,
+      -4.019999999999996,
+      1.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R500",
+    "side": "F",
+    "x": -9.700000000000003,
+    "y": -0.9000000000000057,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.430000000000007,
+      -2.3800000000000097,
+      7.300000000000001,
+      -8.969999999999999,
+      0.5799999999999983,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R501",
+    "side": "F",
+    "x": -7.799999999999997,
+    "y": -0.9000000000000057,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.530000000000001,
+      -2.3800000000000097,
+      7.300000000000001,
+      -7.069999999999993,
+      0.5799999999999983,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C204",
+    "side": "F",
+    "x": 7.299999999999997,
+    "y": -29.224999999999994,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.840000000000003,
+      -30.13499999999999,
+      7.300000000000001,
+      7.759999999999991,
+      -28.314999999999998,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C205",
+    "side": "F",
+    "x": 4.400000000000006,
+    "y": -32.599999999999994,
+    "w": 3.4000000000000057,
+    "h": 1.9599999999999795,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.700000000000003,
+      -33.579999999999984,
+      7.300000000000001,
+      6.1000000000000085,
+      -31.620000000000005,
+      8.55
+    ]
+  },
+  {
+    "ref": "C206",
+    "side": "F",
+    "x": 18.200000000000003,
+    "y": -28.0,
+    "w": 2.3000000000000114,
+    "h": 4.6000000000000085,
+    "height": 2,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.049999999999997,
+      -30.30000000000001,
+      7.300000000000001,
+      19.35000000000001,
+      -25.700000000000003,
+      9.3
+    ]
+  },
+  {
+    "ref": "C207",
+    "side": "F",
+    "x": 18.200000000000003,
+    "y": -33.0,
+    "w": 2.3000000000000114,
+    "h": 4.600000000000023,
+    "height": 2,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.049999999999997,
+      -35.30000000000001,
+      7.300000000000001,
+      19.35000000000001,
+      -30.69999999999999,
+      9.3
+    ]
+  },
+  {
+    "ref": "C203",
+    "side": "F",
+    "x": 0.9000000000000057,
+    "y": -33.599999999999994,
+    "w": 2.3000000000000114,
+    "h": 4.600000000000023,
+    "height": 2,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.25,
+      -35.900000000000006,
+      7.300000000000001,
+      2.0500000000000114,
+      -31.299999999999983,
+      9.3
+    ]
+  },
+  {
+    "ref": "C202",
+    "side": "F",
+    "x": -0.20000000000000284,
+    "y": -37.0,
+    "w": 3.4000000000000057,
+    "h": 1.9599999999999795,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.9000000000000057,
+      -37.97999999999999,
+      7.300000000000001,
+      1.5,
+      -36.02000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "C201",
+    "side": "F",
+    "x": 4.0,
+    "y": -43.69999999999999,
+    "w": 1.960000000000008,
+    "h": 3.3999999999999773,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.019999999999996,
+      -45.39999999999998,
+      7.300000000000001,
+      4.980000000000004,
+      -42.0,
+      8.55
+    ]
+  },
+  {
+    "ref": "L440",
+    "side": "F",
+    "x": 12.0,
+    "y": 28.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.530000000000001,
+      27.069999999999993,
+      7.300000000000001,
+      12.469999999999999,
+      28.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L441",
+    "side": "F",
+    "x": 12.0,
+    "y": 25.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.530000000000001,
+      24.569999999999993,
+      7.300000000000001,
+      12.469999999999999,
+      26.430000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L442",
+    "side": "F",
+    "x": 12.0,
+    "y": 23.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.530000000000001,
+      22.069999999999993,
+      7.300000000000001,
+      12.469999999999999,
+      23.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C450",
+    "side": "F",
+    "x": 10.5,
+    "y": 26.799999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      26.340000000000003,
+      7.300000000000001,
+      11.409999999999997,
+      27.25999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C451",
+    "side": "F",
+    "x": 10.5,
+    "y": 24.299999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.590000000000003,
+      23.840000000000003,
+      7.300000000000001,
+      11.409999999999997,
+      24.75999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L443",
+    "side": "F",
+    "x": 17.0,
+    "y": 28.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.53,
+      27.069999999999993,
+      7.300000000000001,
+      17.47,
+      28.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L444",
+    "side": "F",
+    "x": 17.0,
+    "y": 25.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.53,
+      24.569999999999993,
+      7.300000000000001,
+      17.47,
+      26.430000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L445",
+    "side": "F",
+    "x": 17.0,
+    "y": 23.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.53,
+      22.069999999999993,
+      7.300000000000001,
+      17.47,
+      23.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C452",
+    "side": "F",
+    "x": 18.5,
+    "y": 26.799999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.590000000000003,
+      26.340000000000003,
+      7.300000000000001,
+      19.409999999999997,
+      27.25999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C453",
+    "side": "F",
+    "x": 18.5,
+    "y": 24.299999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.590000000000003,
+      23.840000000000003,
+      7.300000000000001,
+      19.409999999999997,
+      24.75999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L446",
+    "side": "F",
+    "x": 8.5,
+    "y": 27.599999999999994,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.030000000000001,
+      26.669999999999987,
+      7.300000000000001,
+      8.969999999999999,
+      28.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L447",
+    "side": "F",
+    "x": 8.5,
+    "y": 25.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.030000000000001,
+      24.569999999999993,
+      7.300000000000001,
+      8.969999999999999,
+      26.430000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "L448",
+    "side": "F",
+    "x": 8.5,
+    "y": 23.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.030000000000001,
+      22.069999999999993,
+      7.300000000000001,
+      8.969999999999999,
+      23.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C454",
+    "side": "F",
+    "x": 7.0,
+    "y": 26.799999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.090000000000003,
+      26.340000000000003,
+      7.300000000000001,
+      7.909999999999997,
+      27.25999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C455",
+    "side": "F",
+    "x": 7.0,
+    "y": 24.299999999999997,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.090000000000003,
+      23.840000000000003,
+      7.300000000000001,
+      7.909999999999997,
+      24.75999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R15",
+    "side": "B",
+    "x": -4.0,
+    "y": -22.799999999999997,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.480000000000004,
+      -23.53,
+      4.8,
+      -2.519999999999996,
+      -22.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "U114",
+    "side": "F",
+    "x": -12.0,
+    "y": -29.5,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999915,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.049999999999997,
+      -31.19999999999999,
+      7.300000000000001,
+      -9.950000000000003,
+      -27.799999999999997,
+      8.75
+    ]
+  },
+  {
+    "ref": "U154",
+    "side": "F",
+    "x": -4.0,
+    "y": -26.0,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.049999999999997,
+      -27.700000000000003,
+      7.300000000000001,
+      -1.9500000000000028,
+      -24.299999999999997,
+      8.75
+    ]
+  },
+  {
+    "ref": "U191",
+    "side": "B",
+    "x": -10.5,
+    "y": -37.0,
+    "w": 3.4000000000000057,
+    "h": 4.100000000000023,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.200000000000003,
+      -39.05000000000001,
+      4.25,
+      -8.799999999999997,
+      -34.94999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "U192",
+    "side": "B",
+    "x": 4.0,
+    "y": 27.0,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.299999999999997,
+      24.950000000000003,
+      4.25,
+      5.700000000000003,
+      29.049999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U193",
+    "side": "B",
+    "x": -13.5,
+    "y": 24.0,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.200000000000003,
+      21.950000000000003,
+      4.25,
+      -11.799999999999997,
+      26.049999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U194",
+    "side": "B",
+    "x": -12.5,
+    "y": 19.5,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.200000000000003,
+      17.450000000000003,
+      4.25,
+      -10.799999999999997,
+      21.549999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U2",
+    "side": "F",
+    "x": -13.0,
+    "y": 32.0,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.049999999999997,
+      30.299999999999997,
+      7.300000000000001,
+      -10.950000000000003,
+      33.7,
+      8.75
+    ]
+  },
+  {
+    "ref": "U401",
+    "side": "B",
+    "x": 9.0,
+    "y": 27.0,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.299999999999997,
+      24.950000000000003,
+      4.25,
+      10.700000000000003,
+      29.049999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U402",
+    "side": "B",
+    "x": -8.0,
+    "y": 25.5,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.700000000000003,
+      23.450000000000003,
+      4.25,
+      -6.299999999999997,
+      27.549999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U600",
+    "side": "B",
+    "x": -17.0,
+    "y": 32.0,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.700000000000003,
+      29.950000000000003,
+      4.25,
+      -15.299999999999997,
+      34.05,
+      5.7
+    ]
+  },
+  {
+    "ref": "U601",
+    "side": "B",
+    "x": -11.0,
+    "y": 33.0,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.700000000000003,
+      30.950000000000003,
+      4.25,
+      -9.299999999999997,
+      35.05,
+      5.7
+    ]
+  },
+  {
+    "ref": "U603",
+    "side": "B",
+    "x": -8.0,
+    "y": 37.5,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.700000000000003,
+      35.45,
+      4.25,
+      -6.299999999999997,
+      39.55,
+      5.7
+    ]
+  },
+  {
+    "ref": "U702",
+    "side": "B",
+    "x": 14.0,
+    "y": 5.5,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.299999999999997,
+      3.450000000000003,
+      4.25,
+      15.700000000000003,
+      7.549999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U711",
+    "side": "F",
+    "x": -17.5,
+    "y": 32.0,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.549999999999997,
+      30.299999999999997,
+      7.300000000000001,
+      -15.450000000000003,
+      33.7,
+      8.75
+    ]
+  },
+  {
+    "ref": "U713",
+    "side": "F",
+    "x": -8.0,
+    "y": 35.5,
+    "w": 3.4000000000000057,
+    "h": 4.099999999999994,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.700000000000003,
+      33.45,
+      7.300000000000001,
+      -6.299999999999997,
+      37.55,
+      8.75
+    ]
+  },
+  {
+    "ref": "U730",
+    "side": "B",
+    "x": 10.5,
+    "y": -29.5,
+    "w": 3.4000000000000057,
+    "h": 4.1000000000000085,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.799999999999997,
+      -31.55000000000001,
+      4.25,
+      12.200000000000003,
+      -27.450000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "U731",
+    "side": "B",
+    "x": 6.5,
+    "y": -29.5,
+    "w": 4.099999999999994,
+    "h": 3.3999999999999915,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.450000000000003,
+      -31.19999999999999,
+      4.25,
+      8.549999999999997,
+      -27.799999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "U740",
+    "side": "F",
+    "x": -4.0,
+    "y": 39.0,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.049999999999997,
+      37.3,
+      7.300000000000001,
+      -1.9500000000000028,
+      40.7,
+      8.75
+    ]
+  },
+  {
+    "ref": "U741",
+    "side": "F",
+    "x": -13.0,
+    "y": 28.5,
+    "w": 4.099999999999994,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.049999999999997,
+      26.799999999999997,
+      7.300000000000001,
+      -10.950000000000003,
+      30.200000000000003,
+      8.75
+    ]
+  },
+  {
+    "ref": "Q600",
+    "side": "B",
+    "x": -11.0,
+    "y": 9.5,
+    "w": 3.8600000000000136,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.930000000000007,
+      7.799999999999997,
+      4.25,
+      -9.069999999999993,
+      11.200000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "Q601",
+    "side": "B",
+    "x": -7.0,
+    "y": 9.5,
+    "w": 3.4000000000000057,
+    "h": 3.8600000000000136,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.700000000000003,
+      7.569999999999993,
+      4.25,
+      -5.299999999999997,
+      11.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "Q602",
+    "side": "B",
+    "x": -7.0,
+    "y": 13.5,
+    "w": 3.4000000000000057,
+    "h": 3.8600000000000136,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.700000000000003,
+      11.569999999999993,
+      4.25,
+      -5.299999999999997,
+      15.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "Q711",
+    "side": "F",
+    "x": 5.5,
+    "y": 15.0,
+    "w": 3.4000000000000057,
+    "h": 3.8600000000000136,
+    "height": 1.45,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.799999999999997,
+      13.069999999999993,
+      7.300000000000001,
+      7.200000000000003,
+      16.930000000000007,
+      8.75
+    ]
+  },
+  {
+    "ref": "Q710",
+    "side": "F",
+    "x": 1.0,
+    "y": 39.5,
+    "w": 2.1999999999999886,
+    "h": 2.9000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.09999999999999432,
+      38.05,
+      7.300000000000001,
+      2.0999999999999943,
+      40.95,
+      8.55
+    ]
+  },
+  {
+    "ref": "Q740",
+    "side": "F",
+    "x": 1.0,
+    "y": -1.5,
+    "w": 2.9000000000000057,
+    "h": 2.1999999999999886,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.45000000000000284,
+      -2.5999999999999943,
+      7.300000000000001,
+      2.450000000000003,
+      -0.4000000000000057,
+      8.55
+    ]
+  },
+  {
+    "ref": "U301",
+    "side": "B",
+    "x": -14.0,
+    "y": 32.5,
+    "w": 2.1999999999999886,
+    "h": 2.9000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.099999999999994,
+      31.049999999999997,
+      4.45,
+      -12.900000000000006,
+      33.95,
+      5.7
+    ]
+  },
+  {
+    "ref": "U400",
+    "side": "B",
+    "x": -12.5,
+    "y": 29.0,
+    "w": 2.1999999999999886,
+    "h": 2.9000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.599999999999994,
+      27.549999999999997,
+      4.45,
+      -11.400000000000006,
+      30.450000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "U602",
+    "side": "B",
+    "x": -7.0,
+    "y": 6.0,
+    "w": 2.9000000000000057,
+    "h": 2.1999999999999886,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.450000000000003,
+      4.900000000000006,
+      4.45,
+      -5.549999999999997,
+      7.099999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "U710",
+    "side": "F",
+    "x": -7.5,
+    "y": 27.5,
+    "w": 2.1999999999999886,
+    "h": 2.9000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.599999999999994,
+      26.049999999999997,
+      7.300000000000001,
+      -6.400000000000006,
+      28.950000000000003,
+      8.55
+    ]
+  },
+  {
+    "ref": "Q603",
+    "side": "B",
+    "x": -11.0,
+    "y": 3.0,
+    "w": 2.3000000000000114,
+    "h": 2.0999999999999943,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.150000000000006,
+      1.9500000000000028,
+      4.45,
+      -9.849999999999994,
+      4.049999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D101",
+    "side": "F",
+    "x": -12.5,
+    "y": -39.0,
+    "w": 1.5999999999999943,
+    "h": 1.3999999999999773,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.299999999999997,
+      -39.69999999999999,
+      7.300000000000001,
+      -11.700000000000003,
+      -38.30000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "D110",
+    "side": "F",
+    "x": -14.5,
+    "y": -33.5,
+    "w": 1.4000000000000057,
+    "h": 1.6000000000000227,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.200000000000003,
+      -34.30000000000001,
+      7.300000000000001,
+      -13.799999999999997,
+      -32.69999999999999,
+      8.55
+    ]
+  },
+  {
+    "ref": "D150",
+    "side": "F",
+    "x": 9.5,
+    "y": -38.5,
+    "w": 1.4000000000000057,
+    "h": 1.6000000000000227,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.799999999999997,
+      -39.30000000000001,
+      7.300000000000001,
+      10.200000000000003,
+      -37.69999999999999,
+      8.55
+    ]
+  },
+  {
+    "ref": "D301",
+    "side": "F",
+    "x": -1.0,
+    "y": -13.5,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.7999999999999972,
+      -14.200000000000003,
+      7.300000000000001,
+      -0.20000000000000284,
+      -12.799999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "D302",
+    "side": "F",
+    "x": -1.0,
+    "y": -12.0,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.7999999999999972,
+      -12.700000000000003,
+      7.300000000000001,
+      -0.20000000000000284,
+      -11.299999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "D303",
+    "side": "F",
+    "x": -1.0,
+    "y": -10.5,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.7999999999999972,
+      -11.200000000000003,
+      7.300000000000001,
+      -0.20000000000000284,
+      -9.799999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "D602",
+    "side": "B",
+    "x": -9.0,
+    "y": 17.5,
+    "w": 3.4000000000000057,
+    "h": 3.8600000000000136,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.700000000000003,
+      15.569999999999993,
+      4.25,
+      -7.299999999999997,
+      19.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "D603",
+    "side": "B",
+    "x": -11.5,
+    "y": 0.0,
+    "w": 3.8600000000000136,
+    "h": 3.4000000000000057,
+    "height": 1.45,
+    "z": 4.25,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.430000000000007,
+      -1.7000000000000028,
+      4.25,
+      -9.569999999999993,
+      1.7000000000000028,
+      5.7
+    ]
+  },
+  {
+    "ref": "D700",
+    "side": "B",
+    "x": 13.0,
+    "y": 1.5,
+    "w": 1.4000000000000057,
+    "h": 1.5999999999999943,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.299999999999997,
+      0.7000000000000028,
+      4.45,
+      13.700000000000003,
+      2.299999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D701",
+    "side": "B",
+    "x": 13.0,
+    "y": -1.0,
+    "w": 1.4000000000000057,
+    "h": 1.5999999999999943,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.299999999999997,
+      -1.7999999999999972,
+      4.45,
+      13.700000000000003,
+      -0.20000000000000284,
+      5.7
+    ]
+  },
+  {
+    "ref": "D702",
+    "side": "B",
+    "x": 13.0,
+    "y": -3.0,
+    "w": 1.4000000000000057,
+    "h": 1.5999999999999943,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.299999999999997,
+      -3.799999999999997,
+      4.45,
+      13.700000000000003,
+      -2.200000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "D703",
+    "side": "B",
+    "x": 13.0,
+    "y": -5.5,
+    "w": 1.4000000000000057,
+    "h": 1.5999999999999943,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.299999999999997,
+      -6.299999999999997,
+      4.45,
+      13.700000000000003,
+      -4.700000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "D704",
+    "side": "B",
+    "x": 13.0,
+    "y": -8.0,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.200000000000003,
+      -8.700000000000003,
+      4.45,
+      13.799999999999997,
+      -7.299999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D705",
+    "side": "B",
+    "x": 13.0,
+    "y": -10.5,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.200000000000003,
+      -11.200000000000003,
+      4.45,
+      13.799999999999997,
+      -9.799999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D706",
+    "side": "B",
+    "x": 10.5,
+    "y": -13.0,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.700000000000003,
+      -13.700000000000003,
+      4.45,
+      11.299999999999997,
+      -12.299999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D730",
+    "side": "B",
+    "x": 11.5,
+    "y": -19.5,
+    "w": 1.5999999999999943,
+    "h": 1.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.700000000000003,
+      -20.200000000000003,
+      4.45,
+      12.299999999999997,
+      -18.799999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "D731",
+    "side": "B",
+    "x": 13.5,
+    "y": -31.0,
+    "w": 1.4000000000000057,
+    "h": 1.6000000000000227,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.799999999999997,
+      -31.80000000000001,
+      4.45,
+      14.200000000000003,
+      -30.19999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "C1",
+    "side": "F",
+    "x": -9.5,
+    "y": 31.0,
+    "w": 1.960000000000008,
+    "h": 3.4000000000000057,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.480000000000004,
+      29.299999999999997,
+      7.300000000000001,
+      -8.519999999999996,
+      32.7,
+      8.55
+    ]
+  },
+  {
+    "ref": "C110",
+    "side": "B",
+    "x": -13.0,
+    "y": -31.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.730000000000004,
+      -32.97999999999999,
+      4.8,
+      -12.269999999999996,
+      -30.02000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C111",
+    "side": "F",
+    "x": -18.0,
+    "y": -37.0,
+    "w": 1.960000000000008,
+    "h": 3.3999999999999773,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.980000000000004,
+      -38.69999999999999,
+      7.300000000000001,
+      -17.019999999999996,
+      -35.30000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "C112",
+    "side": "F",
+    "x": -13.5,
+    "y": -35.5,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.980000000000004,
+      -36.22999999999999,
+      7.300000000000001,
+      -12.019999999999996,
+      -34.77000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C113",
+    "side": "F",
+    "x": -4.5,
+    "y": -31.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.230000000000004,
+      -32.97999999999999,
+      7.300000000000001,
+      -3.769999999999996,
+      -30.02000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C114",
+    "side": "F",
+    "x": -8.25,
+    "y": -27.75,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999937,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.730000000000004,
+      -28.47999999999999,
+      7.300000000000001,
+      -6.769999999999996,
+      -27.019999999999996,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C115",
+    "side": "F",
+    "x": -3.5,
+    "y": -34.0,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.980000000000004,
+      -34.72999999999999,
+      7.300000000000001,
+      -2.019999999999996,
+      -33.27000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C150",
+    "side": "F",
+    "x": 9.5,
+    "y": -36.0,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.769999999999996,
+      -37.47999999999999,
+      7.300000000000001,
+      10.230000000000004,
+      -34.52000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C151",
+    "side": "F",
+    "x": 15.0,
+    "y": -35.5,
+    "w": 3.4000000000000057,
+    "h": 1.9599999999999795,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      13.299999999999997,
+      -36.47999999999999,
+      7.300000000000001,
+      16.700000000000003,
+      -34.52000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "C152",
+    "side": "F",
+    "x": 7.0,
+    "y": -33.0,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.269999999999996,
+      -34.47999999999999,
+      7.300000000000001,
+      7.730000000000004,
+      -31.52000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C153",
+    "side": "F",
+    "x": 3.5,
+    "y": -36.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.769999999999996,
+      -37.97999999999999,
+      7.300000000000001,
+      4.230000000000004,
+      -35.02000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C154",
+    "side": "B",
+    "x": -1.75,
+    "y": -22.25,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.480000000000004,
+      -23.730000000000004,
+      4.8,
+      -1.019999999999996,
+      -20.769999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C155",
+    "side": "F",
+    "x": -2.5,
+    "y": -40.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.230000000000004,
+      -41.97999999999999,
+      7.300000000000001,
+      -1.769999999999996,
+      -39.02000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C180",
+    "side": "B",
+    "x": 12.75,
+    "y": -32.75,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.269999999999996,
+      -33.47999999999999,
+      4.8,
+      14.230000000000004,
+      -32.02000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C181",
+    "side": "B",
+    "x": 5.0,
+    "y": -32.5,
+    "w": 3.4000000000000057,
+    "h": 1.9599999999999795,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.299999999999997,
+      -33.47999999999999,
+      4.45,
+      6.700000000000003,
+      -31.52000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C190",
+    "side": "B",
+    "x": -8.0,
+    "y": -38.0,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.730000000000004,
+      -39.47999999999999,
+      4.8,
+      -7.269999999999996,
+      -36.52000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C191",
+    "side": "B",
+    "x": -18.25,
+    "y": -37.0,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.730000000000004,
+      -37.72999999999999,
+      4.8,
+      -16.769999999999996,
+      -36.27000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C192",
+    "side": "B",
+    "x": -10.75,
+    "y": -40.75,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.480000000000004,
+      -42.22999999999999,
+      4.8,
+      -10.019999999999996,
+      -39.27000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C194",
+    "side": "B",
+    "x": -6.0,
+    "y": -38.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.730000000000004,
+      -39.97999999999999,
+      4.8,
+      -5.269999999999996,
+      -37.02000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "C195",
+    "side": "B",
+    "x": 0.75,
+    "y": 26.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.730000000000004,
+      25.769999999999996,
+      4.8,
+      2.230000000000004,
+      27.230000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C196",
+    "side": "B",
+    "x": -16.75,
+    "y": 22.75,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.230000000000004,
+      22.019999999999996,
+      4.8,
+      -15.269999999999996,
+      23.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C197",
+    "side": "B",
+    "x": -15.75,
+    "y": 18.25,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.230000000000004,
+      17.519999999999996,
+      4.8,
+      -14.269999999999996,
+      18.980000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C2",
+    "side": "F",
+    "x": -10.0,
+    "y": 27.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.730000000000004,
+      26.019999999999996,
+      7.300000000000001,
+      -9.269999999999996,
+      28.980000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C3",
+    "side": "F",
+    "x": -9.0,
+    "y": 40.0,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999937,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.730000000000004,
+      38.52,
+      7.300000000000001,
+      -8.269999999999996,
+      41.48,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C301",
+    "side": "B",
+    "x": -14.5,
+    "y": 35.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000001,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.230000000000004,
+      34.019999999999996,
+      4.8,
+      -13.769999999999996,
+      36.98,
+      5.7
+    ]
+  },
+  {
+    "ref": "C302",
+    "side": "B",
+    "x": -11.5,
+    "y": -17.5,
+    "w": 1.960000000000008,
+    "h": 3.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.480000000000004,
+      -19.200000000000003,
+      4.45,
+      -10.519999999999996,
+      -15.799999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C303",
+    "side": "B",
+    "x": -9.0,
+    "y": -18.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.480000000000004,
+      -19.230000000000004,
+      4.8,
+      -7.519999999999996,
+      -17.769999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C304",
+    "side": "B",
+    "x": -11.75,
+    "y": -8.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.480000000000004,
+      -9.980000000000004,
+      4.8,
+      -11.019999999999996,
+      -7.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C305",
+    "side": "B",
+    "x": -5.0,
+    "y": -17.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.730000000000004,
+      -18.980000000000004,
+      4.8,
+      -4.269999999999996,
+      -16.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C306",
+    "side": "B",
+    "x": -10.5,
+    "y": -3.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.230000000000004,
+      -4.980000000000004,
+      4.8,
+      -9.769999999999996,
+      -2.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C4",
+    "side": "F",
+    "x": -7.5,
+    "y": 40.0,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999937,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.230000000000004,
+      38.52,
+      7.300000000000001,
+      -6.769999999999996,
+      41.48,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C400",
+    "side": "B",
+    "x": -14.5,
+    "y": 29.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.230000000000004,
+      27.519999999999996,
+      4.8,
+      -13.769999999999996,
+      30.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C401",
+    "side": "B",
+    "x": -3.0,
+    "y": 26.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.480000000000004,
+      25.769999999999996,
+      4.8,
+      -1.519999999999996,
+      27.230000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C402",
+    "side": "B",
+    "x": 6.75,
+    "y": 26.25,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.290000000000006,
+      25.340000000000003,
+      5.05,
+      7.209999999999994,
+      27.159999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C403",
+    "side": "B",
+    "x": -10.75,
+    "y": 24.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.659999999999997,
+      23.540000000000006,
+      5.05,
+      -9.840000000000003,
+      24.459999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "C404",
+    "side": "B",
+    "x": -6.75,
+    "y": 22.5,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -7.209999999999994,
+      21.590000000000003,
+      5.05,
+      -6.290000000000006,
+      23.409999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C5",
+    "side": "F",
+    "x": -13.5,
+    "y": 26.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.980000000000004,
+      25.269999999999996,
+      7.300000000000001,
+      -12.019999999999996,
+      26.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C6",
+    "side": "F",
+    "x": -7.5,
+    "y": 31.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.230000000000004,
+      29.519999999999996,
+      7.300000000000001,
+      -6.769999999999996,
+      32.480000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C600",
+    "side": "B",
+    "x": -4.5,
+    "y": 6.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.230000000000004,
+      4.519999999999996,
+      4.8,
+      -3.769999999999996,
+      7.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C601",
+    "side": "B",
+    "x": -8.0,
+    "y": 3.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.730000000000004,
+      1.519999999999996,
+      4.8,
+      -7.269999999999996,
+      4.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C602",
+    "side": "B",
+    "x": -19.25,
+    "y": 31.25,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.709999999999994,
+      30.340000000000003,
+      5.05,
+      -18.790000000000006,
+      32.16,
+      5.7
+    ]
+  },
+  {
+    "ref": "C603",
+    "side": "B",
+    "x": -13.25,
+    "y": 35.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.709999999999994,
+      34.09,
+      5.05,
+      -12.790000000000006,
+      35.91,
+      5.7
+    ]
+  },
+  {
+    "ref": "C604",
+    "side": "B",
+    "x": -16.5,
+    "y": -1.5,
+    "w": 3.4000000000000057,
+    "h": 1.960000000000008,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.200000000000003,
+      -2.480000000000004,
+      4.45,
+      -14.799999999999997,
+      -0.519999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "C606",
+    "side": "B",
+    "x": -16.0,
+    "y": 6.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.730000000000004,
+      4.519999999999996,
+      4.8,
+      -15.269999999999996,
+      7.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C607",
+    "side": "B",
+    "x": -14.5,
+    "y": 10.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.980000000000004,
+      9.269999999999996,
+      4.8,
+      -13.019999999999996,
+      10.730000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C608",
+    "side": "B",
+    "x": -17.0,
+    "y": 9.5,
+    "w": 1.960000000000008,
+    "h": 3.4000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.980000000000004,
+      7.799999999999997,
+      4.45,
+      -16.019999999999996,
+      11.200000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "C609",
+    "side": "B",
+    "x": -10.25,
+    "y": 36.75,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.709999999999994,
+      35.84,
+      5.05,
+      -9.790000000000006,
+      37.66,
+      5.7
+    ]
+  },
+  {
+    "ref": "C610",
+    "side": "B",
+    "x": -6.5,
+    "y": 3.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -7.230000000000004,
+      1.519999999999996,
+      4.8,
+      -5.769999999999996,
+      4.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C611",
+    "side": "B",
+    "x": -17.0,
+    "y": 12.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.480000000000004,
+      11.769999999999996,
+      4.8,
+      -15.519999999999996,
+      13.230000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C612",
+    "side": "B",
+    "x": -15.75,
+    "y": 14.25,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.209999999999994,
+      13.340000000000003,
+      5.05,
+      -15.290000000000006,
+      15.159999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C613",
+    "side": "B",
+    "x": -14.5,
+    "y": 8.25,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.409999999999997,
+      7.790000000000006,
+      5.05,
+      -13.590000000000003,
+      8.709999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "C620",
+    "side": "B",
+    "x": -17.0,
+    "y": 3.5,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.459999999999994,
+      2.5900000000000034,
+      5.05,
+      -16.540000000000006,
+      4.409999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C621",
+    "side": "B",
+    "x": -3.0,
+    "y": 6.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.4599999999999937,
+      5.090000000000003,
+      5.05,
+      -2.5400000000000063,
+      6.909999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C622",
+    "side": "B",
+    "x": -8.5,
+    "y": 0.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.409999999999997,
+      -0.45999999999999375,
+      5.05,
+      -7.590000000000003,
+      0.45999999999999375,
+      5.7
+    ]
+  },
+  {
+    "ref": "C623",
+    "side": "B",
+    "x": -18.5,
+    "y": 5.5,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.959999999999994,
+      4.590000000000003,
+      5.05,
+      -18.040000000000006,
+      6.409999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C624",
+    "side": "B",
+    "x": -17.0,
+    "y": 20.0,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.459999999999994,
+      19.090000000000003,
+      5.05,
+      -16.540000000000006,
+      20.909999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "C625",
+    "side": "B",
+    "x": -15.25,
+    "y": 2.75,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.159999999999997,
+      2.2900000000000063,
+      5.05,
+      -14.340000000000003,
+      3.2099999999999937,
+      5.7
+    ]
+  },
+  {
+    "ref": "C7",
+    "side": "B",
+    "x": -7.75,
+    "y": 33.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.230000000000004,
+      32.269999999999996,
+      4.8,
+      -6.269999999999996,
+      33.730000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C700",
+    "side": "B",
+    "x": 4.75,
+    "y": 6.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.8400000000000034,
+      5.540000000000006,
+      5.05,
+      5.659999999999997,
+      6.459999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "C701",
+    "side": "B",
+    "x": 6.0,
+    "y": -3.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      5.090000000000003,
+      -3.4599999999999937,
+      5.05,
+      6.909999999999997,
+      -2.5400000000000063,
+      5.7
+    ]
+  },
+  {
+    "ref": "C702",
+    "side": "B",
+    "x": 10.75,
+    "y": 6.75,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.269999999999996,
+      6.019999999999996,
+      4.8,
+      12.230000000000004,
+      7.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C703",
+    "side": "B",
+    "x": 16.5,
+    "y": 3.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      15.769999999999996,
+      2.019999999999996,
+      4.8,
+      17.230000000000004,
+      4.980000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C710",
+    "side": "F",
+    "x": -8.0,
+    "y": 25.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.480000000000004,
+      24.269999999999996,
+      7.300000000000001,
+      -6.519999999999996,
+      25.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C711",
+    "side": "F",
+    "x": -5.0,
+    "y": 32.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.480000000000004,
+      31.269999999999996,
+      7.300000000000001,
+      -3.519999999999996,
+      32.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C712",
+    "side": "F",
+    "x": -18.75,
+    "y": 34.25,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.659999999999997,
+      33.790000000000006,
+      7.300000000000001,
+      -17.840000000000003,
+      34.709999999999994,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C713",
+    "side": "B",
+    "x": 15.25,
+    "y": 12.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.519999999999996,
+      11.019999999999996,
+      4.8,
+      15.980000000000004,
+      13.980000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "C714",
+    "side": "F",
+    "x": -5.25,
+    "y": 36.75,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000017,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.159999999999997,
+      36.29,
+      7.300000000000001,
+      -4.340000000000003,
+      37.21,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C730",
+    "side": "B",
+    "x": 12.0,
+    "y": -34.0,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000159,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.090000000000003,
+      -34.46000000000001,
+      5.05,
+      12.909999999999997,
+      -33.53999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "C731",
+    "side": "B",
+    "x": 3.5,
+    "y": -28.5,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000159,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.5900000000000034,
+      -28.960000000000008,
+      5.05,
+      4.409999999999997,
+      -28.039999999999992,
+      5.7
+    ]
+  },
+  {
+    "ref": "C732",
+    "side": "B",
+    "x": 4.75,
+    "y": -19.25,
+    "w": 0.9199999999999875,
+    "h": 1.8199999999999932,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.290000000000006,
+      -20.159999999999997,
+      5.05,
+      5.209999999999994,
+      -18.340000000000003,
+      5.7
+    ]
+  },
+  {
+    "ref": "C740",
+    "side": "F",
+    "x": -1.0,
+    "y": 37.5,
+    "w": 1.8199999999999932,
+    "h": 0.9200000000000017,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.9099999999999966,
+      37.04,
+      7.300000000000001,
+      -0.09000000000000341,
+      37.96,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "C741",
+    "side": "F",
+    "x": -2.0,
+    "y": 35.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.480000000000004,
+      34.269999999999996,
+      7.300000000000001,
+      -0.519999999999996,
+      35.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "C742",
+    "side": "B",
+    "x": -13.5,
+    "y": 27.0,
+    "w": 1.8199999999999932,
+    "h": 0.9199999999999875,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.409999999999997,
+      26.540000000000006,
+      5.05,
+      -12.590000000000003,
+      27.459999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "C8",
+    "side": "F",
+    "x": -12.0,
+    "y": 24.0,
+    "w": 3.4000000000000057,
+    "h": 1.960000000000008,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.700000000000003,
+      23.019999999999996,
+      7.300000000000001,
+      -10.299999999999997,
+      24.980000000000004,
+      8.55
+    ]
+  },
+  {
+    "ref": "D1",
+    "side": "F",
+    "x": -4.0,
+    "y": -5.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.730000000000004,
+      -6.480000000000004,
+      7.300000000000001,
+      -3.269999999999996,
+      -3.519999999999996,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "D600",
+    "side": "B",
+    "x": -13.5,
+    "y": -4.5,
+    "w": 2.3000000000000114,
+    "h": 4.699999999999989,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.650000000000006,
+      -6.849999999999994,
+      4.45,
+      -12.349999999999994,
+      -2.1500000000000057,
+      5.7
+    ]
+  },
+  {
+    "ref": "D601",
+    "side": "B",
+    "x": -18.5,
+    "y": 2.5,
+    "w": 1.9000000000000057,
+    "h": 3.1999999999999886,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.450000000000003,
+      0.9000000000000057,
+      4.45,
+      -17.549999999999997,
+      4.099999999999994,
+      5.7
+    ]
+  },
+  {
+    "ref": "D713",
+    "side": "F",
+    "x": -5.0,
+    "y": 34.5,
+    "w": 1.9000000000000057,
+    "h": 3.1999999999999957,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.950000000000003,
+      32.900000000000006,
+      7.300000000000001,
+      -4.049999999999997,
+      36.1,
+      8.55
+    ]
+  },
+  {
+    "ref": "D714",
+    "side": "F",
+    "x": 5.0,
+    "y": 23.0,
+    "w": 1.4000000000000057,
+    "h": 1.5999999999999943,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.299999999999997,
+      22.200000000000003,
+      7.300000000000001,
+      5.700000000000003,
+      23.799999999999997,
+      8.55
+    ]
+  },
+  {
+    "ref": "D732",
+    "side": "B",
+    "x": 15.0,
+    "y": -31.0,
+    "w": 1.4000000000000057,
+    "h": 1.6000000000000227,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.299999999999997,
+      -31.80000000000001,
+      4.45,
+      15.700000000000003,
+      -30.19999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "D740",
+    "side": "F",
+    "x": 5.0,
+    "y": -3.0,
+    "w": 2.3000000000000114,
+    "h": 4.699999999999989,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.8499999999999943,
+      -5.349999999999994,
+      7.300000000000001,
+      6.150000000000006,
+      -0.6500000000000057,
+      8.55
+    ]
+  },
+  {
+    "ref": "R1",
+    "side": "F",
+    "x": -1.0,
+    "y": 39.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999937,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.730000000000004,
+      38.02,
+      7.300000000000001,
+      -0.269999999999996,
+      40.98,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R10",
+    "side": "F",
+    "x": 1.5,
+    "y": 20.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      0.01999999999999602,
+      19.269999999999996,
+      7.300000000000001,
+      2.980000000000004,
+      20.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R11",
+    "side": "F",
+    "x": -3.5,
+    "y": 20.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.980000000000004,
+      19.269999999999996,
+      7.300000000000001,
+      -2.019999999999996,
+      20.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R110",
+    "side": "F",
+    "x": -10.0,
+    "y": -34.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.469999999999999,
+      -35.43000000000001,
+      7.300000000000001,
+      -9.530000000000001,
+      -33.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R112",
+    "side": "F",
+    "x": -16.0,
+    "y": -36.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.930000000000007,
+      -36.47,
+      7.300000000000001,
+      -15.069999999999993,
+      -35.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R113",
+    "side": "F",
+    "x": -16.0,
+    "y": -35.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.930000000000007,
+      -35.47,
+      7.300000000000001,
+      -15.069999999999993,
+      -34.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R114",
+    "side": "F",
+    "x": -18.0,
+    "y": -34.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.930000000000007,
+      -34.97,
+      7.300000000000001,
+      -17.069999999999993,
+      -34.03,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R115",
+    "side": "F",
+    "x": -10.5,
+    "y": -38.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.430000000000007,
+      -38.97,
+      7.300000000000001,
+      -9.569999999999993,
+      -38.03,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R116",
+    "side": "F",
+    "x": -4.5,
+    "y": -36.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.969999999999999,
+      -36.93000000000001,
+      7.300000000000001,
+      -4.030000000000001,
+      -35.06999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R117",
+    "side": "F",
+    "x": -12.5,
+    "y": -27.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.430000000000007,
+      -27.47,
+      7.300000000000001,
+      -11.569999999999993,
+      -26.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R118",
+    "side": "F",
+    "x": -6.5,
+    "y": -29.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.969999999999999,
+      -30.430000000000007,
+      7.300000000000001,
+      -6.030000000000001,
+      -28.569999999999993,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R119",
+    "side": "F",
+    "x": -18.5,
+    "y": -40.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.97,
+      -40.93000000000001,
+      7.300000000000001,
+      -18.03,
+      -39.06999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R12",
+    "side": "F",
+    "x": -2.5,
+    "y": 33.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.980000000000004,
+      32.769999999999996,
+      7.300000000000001,
+      -1.019999999999996,
+      34.230000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R120",
+    "side": "F",
+    "x": -4.5,
+    "y": -38.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.969999999999999,
+      -38.93000000000001,
+      7.300000000000001,
+      -4.030000000000001,
+      -37.06999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R13",
+    "side": "F",
+    "x": -8.0,
+    "y": 23.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.480000000000004,
+      22.269999999999996,
+      7.300000000000001,
+      -6.519999999999996,
+      23.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R14",
+    "side": "F",
+    "x": -2.0,
+    "y": 32.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.480000000000004,
+      31.269999999999996,
+      7.300000000000001,
+      -0.519999999999996,
+      32.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R150",
+    "side": "F",
+    "x": 14.0,
+    "y": -38.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      13.530000000000001,
+      -39.43000000000001,
+      7.300000000000001,
+      14.469999999999999,
+      -37.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R151",
+    "side": "F",
+    "x": 11.5,
+    "y": -36.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.569999999999993,
+      -36.47,
+      7.300000000000001,
+      12.430000000000007,
+      -35.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R152",
+    "side": "F",
+    "x": 18.5,
+    "y": -37.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      18.03,
+      -38.43000000000001,
+      7.300000000000001,
+      18.97,
+      -36.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R153",
+    "side": "F",
+    "x": 18.5,
+    "y": -39.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      18.03,
+      -40.43000000000001,
+      7.300000000000001,
+      18.97,
+      -38.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R154",
+    "side": "F",
+    "x": 18.5,
+    "y": -41.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      18.03,
+      -42.43000000000001,
+      7.300000000000001,
+      18.97,
+      -40.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R155",
+    "side": "F",
+    "x": 18.0,
+    "y": -36.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      17.069999999999993,
+      -36.47,
+      7.300000000000001,
+      18.930000000000007,
+      -35.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R156",
+    "side": "F",
+    "x": 7.5,
+    "y": -39.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.569999999999993,
+      -39.47,
+      7.300000000000001,
+      8.430000000000007,
+      -38.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R157",
+    "side": "F",
+    "x": -4.5,
+    "y": -28.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.430000000000007,
+      -28.97,
+      7.300000000000001,
+      -3.569999999999993,
+      -28.03,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R158",
+    "side": "F",
+    "x": 11.5,
+    "y": -35.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.569999999999993,
+      -35.47,
+      7.300000000000001,
+      12.430000000000007,
+      -34.53,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R159",
+    "side": "F",
+    "x": 18.5,
+    "y": -43.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      18.03,
+      -44.43000000000001,
+      7.300000000000001,
+      18.97,
+      -42.56999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R16",
+    "side": "F",
+    "x": -5.0,
+    "y": 11.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.480000000000004,
+      10.269999999999996,
+      7.300000000000001,
+      -3.519999999999996,
+      11.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R160",
+    "side": "F",
+    "x": 2.5,
+    "y": -43.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.030000000000001,
+      -43.93000000000001,
+      7.300000000000001,
+      2.969999999999999,
+      -42.06999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R180",
+    "side": "B",
+    "x": 5.5,
+    "y": -34.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.569999999999993,
+      -34.47,
+      5.05,
+      6.430000000000007,
+      -33.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R181",
+    "side": "B",
+    "x": 8.5,
+    "y": -36.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.569999999999993,
+      -36.47,
+      5.05,
+      9.430000000000007,
+      -35.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R182",
+    "side": "B",
+    "x": 5.5,
+    "y": -35.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.569999999999993,
+      -35.47,
+      5.05,
+      6.430000000000007,
+      -34.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R190",
+    "side": "B",
+    "x": -8.0,
+    "y": -35.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.469999999999999,
+      -36.43000000000001,
+      5.05,
+      -7.530000000000001,
+      -34.56999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R191",
+    "side": "B",
+    "x": -6.5,
+    "y": -36.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.969999999999999,
+      -36.93000000000001,
+      5.05,
+      -6.030000000000001,
+      -35.06999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R192",
+    "side": "B",
+    "x": -13.0,
+    "y": -34.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -13.469999999999999,
+      -34.93000000000001,
+      5.05,
+      -12.530000000000001,
+      -33.06999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R193",
+    "side": "B",
+    "x": -10.0,
+    "y": -34.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.930000000000007,
+      -34.47,
+      5.05,
+      -9.069999999999993,
+      -33.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R194",
+    "side": "B",
+    "x": 0.0,
+    "y": -39.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.9300000000000068,
+      -39.47,
+      5.05,
+      0.9300000000000068,
+      -38.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R195",
+    "side": "B",
+    "x": -2.0,
+    "y": -39.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.930000000000007,
+      -39.47,
+      5.05,
+      -1.0699999999999932,
+      -38.53,
+      5.7
+    ]
+  },
+  {
+    "ref": "R196",
+    "side": "B",
+    "x": -11.5,
+    "y": -33.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.969999999999999,
+      -34.43000000000001,
+      5.05,
+      -11.030000000000001,
+      -32.56999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R197",
+    "side": "B",
+    "x": -15.0,
+    "y": 20.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.469999999999999,
+      19.569999999999993,
+      5.05,
+      -14.530000000000001,
+      21.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R198",
+    "side": "B",
+    "x": -14.0,
+    "y": 16.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.930000000000007,
+      16.03,
+      5.05,
+      -13.069999999999993,
+      16.97,
+      5.7
+    ]
+  },
+  {
+    "ref": "R199",
+    "side": "B",
+    "x": 10.0,
+    "y": -36.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.530000000000001,
+      -37.43000000000001,
+      5.05,
+      10.469999999999999,
+      -35.56999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R2",
+    "side": "F",
+    "x": -16.0,
+    "y": 24.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.480000000000004,
+      23.269999999999996,
+      7.300000000000001,
+      -14.519999999999996,
+      24.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R201",
+    "side": "F",
+    "x": -4.0,
+    "y": -41.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.730000000000004,
+      -42.97999999999999,
+      7.300000000000001,
+      -3.269999999999996,
+      -40.02000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R202",
+    "side": "F",
+    "x": -3.0,
+    "y": -37.5,
+    "w": 1.460000000000008,
+    "h": 2.9599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.730000000000004,
+      -38.97999999999999,
+      7.300000000000001,
+      -2.269999999999996,
+      -36.02000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R203",
+    "side": "F",
+    "x": 0.0,
+    "y": -30.5,
+    "w": 2.960000000000008,
+    "h": 1.4599999999999795,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.480000000000004,
+      -31.22999999999999,
+      7.300000000000001,
+      1.480000000000004,
+      -29.77000000000001,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R204",
+    "side": "F",
+    "x": 3.0,
+    "y": -27.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      1.519999999999996,
+      -27.730000000000004,
+      7.300000000000001,
+      4.480000000000004,
+      -26.269999999999996,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R3",
+    "side": "F",
+    "x": 4.5,
+    "y": 1.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.769999999999996,
+      -0.480000000000004,
+      7.300000000000001,
+      5.230000000000004,
+      2.480000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R301",
+    "side": "B",
+    "x": -9.5,
+    "y": 30.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.980000000000004,
+      29.269999999999996,
+      4.8,
+      -8.019999999999996,
+      30.730000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "R302",
+    "side": "B",
+    "x": -11.0,
+    "y": 26.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.730000000000004,
+      24.519999999999996,
+      4.8,
+      -10.269999999999996,
+      27.480000000000004,
+      5.7
+    ]
+  },
+  {
+    "ref": "R303",
+    "side": "B",
+    "x": -4.0,
+    "y": -13.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.730000000000004,
+      -14.480000000000004,
+      4.8,
+      -3.269999999999996,
+      -11.519999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R304",
+    "side": "B",
+    "x": -2.5,
+    "y": -14.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.230000000000004,
+      -15.480000000000004,
+      4.8,
+      -1.769999999999996,
+      -12.519999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R305",
+    "side": "B",
+    "x": -14.5,
+    "y": -13.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.980000000000004,
+      -13.730000000000004,
+      4.8,
+      -13.019999999999996,
+      -12.269999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R306",
+    "side": "B",
+    "x": -6.0,
+    "y": -8.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.730000000000004,
+      -9.980000000000004,
+      4.8,
+      -5.269999999999996,
+      -7.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R307",
+    "side": "B",
+    "x": -1.0,
+    "y": -11.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.730000000000004,
+      -12.980000000000004,
+      4.8,
+      -0.269999999999996,
+      -10.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R308",
+    "side": "B",
+    "x": 0.0,
+    "y": -14.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -1.480000000000004,
+      -14.730000000000004,
+      4.8,
+      1.480000000000004,
+      -13.269999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R309",
+    "side": "B",
+    "x": -2.5,
+    "y": -11.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.230000000000004,
+      -12.480000000000004,
+      4.8,
+      -1.769999999999996,
+      -9.519999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R310",
+    "side": "B",
+    "x": -4.0,
+    "y": -10.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.730000000000004,
+      -11.480000000000004,
+      4.8,
+      -3.269999999999996,
+      -8.519999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R311",
+    "side": "B",
+    "x": -2.5,
+    "y": -20.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.980000000000004,
+      -20.730000000000004,
+      4.8,
+      -1.019999999999996,
+      -19.269999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R312",
+    "side": "B",
+    "x": 1.0,
+    "y": -16.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      0.269999999999996,
+      -17.980000000000004,
+      4.8,
+      1.730000000000004,
+      -15.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R313",
+    "side": "B",
+    "x": -3.5,
+    "y": -7.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.980000000000004,
+      -8.230000000000004,
+      4.8,
+      -2.019999999999996,
+      -6.769999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R314",
+    "side": "B",
+    "x": -8.5,
+    "y": -9.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.980000000000004,
+      -9.730000000000004,
+      4.8,
+      -7.019999999999996,
+      -8.269999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R315",
+    "side": "B",
+    "x": -7.0,
+    "y": -20.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.480000000000004,
+      -20.730000000000004,
+      4.8,
+      -5.519999999999996,
+      -19.269999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R316",
+    "side": "B",
+    "x": -14.0,
+    "y": -10.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 4.8,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.730000000000004,
+      -11.980000000000004,
+      4.8,
+      -13.269999999999996,
+      -9.019999999999996,
+      5.7
+    ]
+  },
+  {
+    "ref": "R4",
+    "side": "F",
+    "x": -3.5,
+    "y": 17.0,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.230000000000004,
+      15.519999999999996,
+      7.300000000000001,
+      -2.769999999999996,
+      18.480000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R400",
+    "side": "B",
+    "x": -10.0,
+    "y": 28.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.930000000000007,
+      28.03,
+      5.05,
+      -9.069999999999993,
+      28.97,
+      5.7
+    ]
+  },
+  {
+    "ref": "R401",
+    "side": "B",
+    "x": 10.5,
+    "y": 24.25,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.569999999999993,
+      23.78,
+      5.05,
+      11.430000000000007,
+      24.72,
+      5.7
+    ]
+  },
+  {
+    "ref": "R402",
+    "side": "B",
+    "x": -5.0,
+    "y": 26.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.469999999999999,
+      25.569999999999993,
+      5.05,
+      -4.530000000000001,
+      27.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R403",
+    "side": "B",
+    "x": -7.5,
+    "y": 28.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.430000000000007,
+      28.03,
+      5.05,
+      -6.569999999999993,
+      28.97,
+      5.7
+    ]
+  },
+  {
+    "ref": "R404",
+    "side": "B",
+    "x": -8.5,
+    "y": 22.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -8.969999999999999,
+      21.069999999999993,
+      5.05,
+      -8.030000000000001,
+      22.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R405",
+    "side": "B",
+    "x": -12.0,
+    "y": 16.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.930000000000007,
+      16.03,
+      5.05,
+      -11.069999999999993,
+      16.97,
+      5.7
+    ]
+  },
+  {
+    "ref": "R406",
+    "side": "B",
+    "x": -5.0,
+    "y": 28.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.930000000000007,
+      27.53,
+      5.05,
+      -4.069999999999993,
+      28.47,
+      5.7
+    ]
+  },
+  {
+    "ref": "R407",
+    "side": "B",
+    "x": -6.5,
+    "y": 19.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.969999999999999,
+      18.069999999999993,
+      5.05,
+      -6.030000000000001,
+      19.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R408",
+    "side": "B",
+    "x": -5.5,
+    "y": 17.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.430000000000007,
+      16.53,
+      5.05,
+      -4.569999999999993,
+      17.47,
+      5.7
+    ]
+  },
+  {
+    "ref": "R409",
+    "side": "B",
+    "x": 1.0,
+    "y": 17.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      0.5300000000000011,
+      16.569999999999993,
+      5.05,
+      1.4699999999999989,
+      18.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R410",
+    "side": "B",
+    "x": 2.0,
+    "y": 17.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      1.5300000000000011,
+      16.069999999999993,
+      5.05,
+      2.469999999999999,
+      17.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R431",
+    "side": "F",
+    "x": 13.0,
+    "y": 31.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      12.530000000000001,
+      30.069999999999993,
+      7.300000000000001,
+      13.469999999999999,
+      31.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R5",
+    "side": "F",
+    "x": 1.0,
+    "y": -12.5,
+    "w": 1.460000000000008,
+    "h": 2.960000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      0.269999999999996,
+      -13.980000000000004,
+      7.300000000000001,
+      1.730000000000004,
+      -11.019999999999996,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R6",
+    "side": "F",
+    "x": -13.5,
+    "y": 22.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -14.980000000000004,
+      21.269999999999996,
+      7.300000000000001,
+      -12.019999999999996,
+      22.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R600",
+    "side": "B",
+    "x": -4.5,
+    "y": 8.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.969999999999999,
+      7.569999999999993,
+      5.05,
+      -4.030000000000001,
+      9.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R601",
+    "side": "B",
+    "x": -17.5,
+    "y": 38.5,
+    "w": 0.9399999999999977,
+    "h": 1.8599999999999994,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.97,
+      37.57,
+      5.05,
+      -17.03,
+      39.43,
+      5.7
+    ]
+  },
+  {
+    "ref": "R602",
+    "side": "B",
+    "x": -4.0,
+    "y": 3.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.469999999999999,
+      2.569999999999993,
+      5.05,
+      -3.530000000000001,
+      4.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R603",
+    "side": "B",
+    "x": -16.5,
+    "y": -5.5,
+    "w": 3.3600000000000136,
+    "h": 1.9000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.180000000000007,
+      -6.450000000000003,
+      4.45,
+      -14.819999999999993,
+      -4.549999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "R604",
+    "side": "B",
+    "x": -7.5,
+    "y": -1.5,
+    "w": 3.3600000000000136,
+    "h": 1.9000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.180000000000007,
+      -2.450000000000003,
+      4.45,
+      -5.819999999999993,
+      -0.5499999999999972,
+      5.7
+    ]
+  },
+  {
+    "ref": "R605",
+    "side": "B",
+    "x": -4.5,
+    "y": 10.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.969999999999999,
+      9.569999999999993,
+      5.05,
+      -4.030000000000001,
+      11.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R606",
+    "side": "B",
+    "x": -10.0,
+    "y": 20.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.469999999999999,
+      19.569999999999993,
+      5.05,
+      -9.530000000000001,
+      21.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R607",
+    "side": "B",
+    "x": -4.5,
+    "y": 14.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -4.969999999999999,
+      13.069999999999993,
+      5.05,
+      -4.030000000000001,
+      14.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R608",
+    "side": "B",
+    "x": -17.0,
+    "y": 1.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.47,
+      0.5699999999999932,
+      5.05,
+      -16.53,
+      2.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R609",
+    "side": "B",
+    "x": -18.5,
+    "y": 10.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.97,
+      9.569999999999993,
+      5.05,
+      -18.03,
+      11.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R610",
+    "side": "B",
+    "x": -10.0,
+    "y": 22.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -10.930000000000007,
+      22.03,
+      5.05,
+      -9.069999999999993,
+      22.97,
+      5.7
+    ]
+  },
+  {
+    "ref": "R611",
+    "side": "B",
+    "x": -7.0,
+    "y": 0.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -7.469999999999999,
+      -0.4300000000000068,
+      5.05,
+      -6.530000000000001,
+      1.4300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R612",
+    "side": "B",
+    "x": -8.0,
+    "y": -3.5,
+    "w": 3.3600000000000136,
+    "h": 1.9000000000000057,
+    "height": 1.25,
+    "z": 4.45,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -9.680000000000007,
+      -4.450000000000003,
+      4.45,
+      -6.319999999999993,
+      -2.549999999999997,
+      5.7
+    ]
+  },
+  {
+    "ref": "R613",
+    "side": "B",
+    "x": -6.0,
+    "y": 0.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -6.469999999999999,
+      -0.4300000000000068,
+      5.05,
+      -5.530000000000001,
+      1.4300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R614",
+    "side": "B",
+    "x": -15.0,
+    "y": 11.25,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -15.930000000000007,
+      10.780000000000001,
+      5.05,
+      -14.069999999999993,
+      11.719999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R615",
+    "side": "B",
+    "x": -17.5,
+    "y": 14.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.430000000000007,
+      13.530000000000001,
+      5.05,
+      -16.569999999999993,
+      14.469999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R616",
+    "side": "B",
+    "x": -18.5,
+    "y": 7.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.97,
+      6.569999999999993,
+      5.05,
+      -18.03,
+      8.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R617",
+    "side": "B",
+    "x": -16.0,
+    "y": 16.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.930000000000007,
+      15.530000000000001,
+      5.05,
+      -15.069999999999993,
+      16.47,
+      5.7
+    ]
+  },
+  {
+    "ref": "R618",
+    "side": "B",
+    "x": -17.5,
+    "y": 15.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.97,
+      14.569999999999993,
+      5.05,
+      -17.03,
+      16.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R620",
+    "side": "B",
+    "x": -19.0,
+    "y": 14.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.47,
+      13.569999999999993,
+      5.05,
+      -18.53,
+      15.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R621",
+    "side": "B",
+    "x": -3.0,
+    "y": 8.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -3.469999999999999,
+      7.069999999999993,
+      5.05,
+      -2.530000000000001,
+      8.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R622",
+    "side": "B",
+    "x": -2.0,
+    "y": 6.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.469999999999999,
+      5.569999999999993,
+      5.05,
+      -1.5300000000000011,
+      7.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R623",
+    "side": "B",
+    "x": -5.0,
+    "y": 1.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.469999999999999,
+      0.5699999999999932,
+      5.05,
+      -4.530000000000001,
+      2.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R624",
+    "side": "B",
+    "x": -18.0,
+    "y": 0.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.930000000000007,
+      -0.46999999999999886,
+      5.05,
+      -17.069999999999993,
+      0.46999999999999886,
+      5.7
+    ]
+  },
+  {
+    "ref": "R625",
+    "side": "B",
+    "x": -19.0,
+    "y": -1.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.47,
+      -2.430000000000007,
+      5.05,
+      -18.53,
+      -0.5699999999999932,
+      5.7
+    ]
+  },
+  {
+    "ref": "R626",
+    "side": "B",
+    "x": -16.0,
+    "y": 17.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -16.930000000000007,
+      16.53,
+      5.05,
+      -15.069999999999993,
+      17.47,
+      5.7
+    ]
+  },
+  {
+    "ref": "R627",
+    "side": "B",
+    "x": -18.0,
+    "y": 17.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.930000000000007,
+      16.53,
+      5.05,
+      -17.069999999999993,
+      17.47,
+      5.7
+    ]
+  },
+  {
+    "ref": "R628",
+    "side": "B",
+    "x": -11.0,
+    "y": -5.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.930000000000007,
+      -5.969999999999999,
+      5.05,
+      -10.069999999999993,
+      -5.030000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "R629",
+    "side": "B",
+    "x": -19.0,
+    "y": -3.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -19.47,
+      -4.430000000000007,
+      5.05,
+      -18.53,
+      -2.569999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R7",
+    "side": "F",
+    "x": -11.0,
+    "y": 19.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -12.480000000000004,
+      18.269999999999996,
+      7.300000000000001,
+      -9.519999999999996,
+      19.730000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R700",
+    "side": "B",
+    "x": 3.5,
+    "y": 2.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.030000000000001,
+      1.5699999999999932,
+      5.05,
+      3.969999999999999,
+      3.430000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R701",
+    "side": "B",
+    "x": 14.5,
+    "y": 2.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.030000000000001,
+      1.0699999999999932,
+      5.05,
+      14.969999999999999,
+      2.930000000000007,
+      5.7
+    ]
+  },
+  {
+    "ref": "R702",
+    "side": "B",
+    "x": 3.5,
+    "y": 0.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.030000000000001,
+      -0.9300000000000068,
+      5.05,
+      3.969999999999999,
+      0.9300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R703",
+    "side": "B",
+    "x": 14.5,
+    "y": 0.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.030000000000001,
+      -0.9300000000000068,
+      5.05,
+      14.969999999999999,
+      0.9300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R704",
+    "side": "B",
+    "x": 10.5,
+    "y": -2.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      10.030000000000001,
+      -3.430000000000007,
+      5.05,
+      10.969999999999999,
+      -1.5699999999999932,
+      5.7
+    ]
+  },
+  {
+    "ref": "R705",
+    "side": "B",
+    "x": 11.5,
+    "y": -2.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      11.030000000000001,
+      -3.430000000000007,
+      5.05,
+      11.969999999999999,
+      -1.5699999999999932,
+      5.7
+    ]
+  },
+  {
+    "ref": "R706",
+    "side": "B",
+    "x": 4.5,
+    "y": -2.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.030000000000001,
+      -3.430000000000007,
+      5.05,
+      4.969999999999999,
+      -1.5699999999999932,
+      5.7
+    ]
+  },
+  {
+    "ref": "R707",
+    "side": "B",
+    "x": 3.5,
+    "y": -2.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.030000000000001,
+      -2.930000000000007,
+      5.05,
+      3.969999999999999,
+      -1.0699999999999932,
+      5.7
+    ]
+  },
+  {
+    "ref": "R708",
+    "side": "B",
+    "x": 3.5,
+    "y": -6.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.030000000000001,
+      -6.930000000000007,
+      5.05,
+      3.969999999999999,
+      -5.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R709",
+    "side": "B",
+    "x": 14.5,
+    "y": -7.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      14.030000000000001,
+      -7.930000000000007,
+      5.05,
+      14.969999999999999,
+      -6.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R710",
+    "side": "B",
+    "x": 9.0,
+    "y": -11.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.530000000000001,
+      -12.430000000000007,
+      5.05,
+      9.469999999999999,
+      -10.569999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R7100",
+    "side": "F",
+    "x": -10.5,
+    "y": 25.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -11.430000000000007,
+      25.03,
+      7.300000000000001,
+      -9.569999999999993,
+      25.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R711",
+    "side": "B",
+    "x": 8.0,
+    "y": -11.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.530000000000001,
+      -12.430000000000007,
+      5.05,
+      8.469999999999999,
+      -10.569999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R712",
+    "side": "B",
+    "x": 7.0,
+    "y": -11.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.530000000000001,
+      -12.430000000000007,
+      5.05,
+      7.469999999999999,
+      -10.569999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R713",
+    "side": "B",
+    "x": 8.5,
+    "y": -13.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      7.569999999999993,
+      -13.969999999999999,
+      5.05,
+      9.430000000000007,
+      -13.030000000000001,
+      5.7
+    ]
+  },
+  {
+    "ref": "R714",
+    "side": "B",
+    "x": 15.5,
+    "y": 1.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      15.030000000000001,
+      0.06999999999999318,
+      5.05,
+      15.969999999999999,
+      1.9300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R715",
+    "side": "B",
+    "x": 17.0,
+    "y": 5.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.069999999999993,
+      5.030000000000001,
+      5.05,
+      17.930000000000007,
+      5.969999999999999,
+      5.7
+    ]
+  },
+  {
+    "ref": "R716",
+    "side": "B",
+    "x": 16.5,
+    "y": 1.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      16.03,
+      0.06999999999999318,
+      5.05,
+      16.97,
+      1.9300000000000068,
+      5.7
+    ]
+  },
+  {
+    "ref": "R719",
+    "side": "F",
+    "x": 0.0,
+    "y": 36.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000065,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.46999999999999886,
+      35.06999999999999,
+      7.300000000000001,
+      0.46999999999999886,
+      36.93,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R720",
+    "side": "F",
+    "x": 1.0,
+    "y": 37.0,
+    "w": 0.9399999999999977,
+    "h": 1.8599999999999994,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      0.5300000000000011,
+      36.07,
+      7.300000000000001,
+      1.4699999999999989,
+      37.93,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R721",
+    "side": "F",
+    "x": 0.5,
+    "y": 33.0,
+    "w": 1.9000000000000057,
+    "h": 3.3600000000000136,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -0.45000000000000284,
+      31.319999999999993,
+      7.300000000000001,
+      1.4500000000000028,
+      34.68000000000001,
+      8.55
+    ]
+  },
+  {
+    "ref": "R722",
+    "side": "F",
+    "x": 7.0,
+    "y": 42.5,
+    "w": 1.9000000000000057,
+    "h": 3.3599999999999994,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.049999999999997,
+      40.82,
+      7.300000000000001,
+      7.950000000000003,
+      44.18,
+      8.55
+    ]
+  },
+  {
+    "ref": "R723",
+    "side": "F",
+    "x": 9.0,
+    "y": 42.5,
+    "w": 1.9000000000000057,
+    "h": 3.3599999999999994,
+    "height": 1.25,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.049999999999997,
+      40.82,
+      7.300000000000001,
+      9.950000000000003,
+      44.18,
+      8.55
+    ]
+  },
+  {
+    "ref": "R724",
+    "side": "F",
+    "x": 10.0,
+    "y": 11.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.530000000000001,
+      10.569999999999993,
+      7.300000000000001,
+      10.469999999999999,
+      12.430000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R725",
+    "side": "F",
+    "x": 7.0,
+    "y": -8.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.530000000000001,
+      -9.430000000000007,
+      7.300000000000001,
+      7.469999999999999,
+      -7.569999999999993,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R726",
+    "side": "F",
+    "x": 4.0,
+    "y": 19.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.069999999999993,
+      19.03,
+      7.300000000000001,
+      4.930000000000007,
+      19.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R727",
+    "side": "F",
+    "x": 5.0,
+    "y": 12.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      4.069999999999993,
+      12.030000000000001,
+      7.300000000000001,
+      5.930000000000007,
+      12.969999999999999,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R728",
+    "side": "F",
+    "x": -5.5,
+    "y": 20.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -5.969999999999999,
+      19.069999999999993,
+      7.300000000000001,
+      -5.030000000000001,
+      20.930000000000007,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R729",
+    "side": "F",
+    "x": 4.5,
+    "y": -8.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      3.569999999999993,
+      -8.969999999999999,
+      7.300000000000001,
+      5.430000000000007,
+      -8.030000000000001,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R730",
+    "side": "F",
+    "x": 7.0,
+    "y": -6.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.530000000000001,
+      -7.430000000000007,
+      7.300000000000001,
+      7.469999999999999,
+      -5.569999999999993,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R731",
+    "side": "B",
+    "x": 9.5,
+    "y": -19.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      8.569999999999993,
+      -19.97,
+      5.05,
+      10.430000000000007,
+      -19.03,
+      5.7
+    ]
+  },
+  {
+    "ref": "R732",
+    "side": "B",
+    "x": 3.0,
+    "y": -21.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.530000000000001,
+      -21.930000000000007,
+      5.05,
+      3.469999999999999,
+      -20.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R733",
+    "side": "B",
+    "x": 7.5,
+    "y": -19.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      6.569999999999993,
+      -19.97,
+      5.05,
+      8.430000000000007,
+      -19.03,
+      5.7
+    ]
+  },
+  {
+    "ref": "R734",
+    "side": "B",
+    "x": 6.0,
+    "y": -19.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      5.530000000000001,
+      -19.930000000000007,
+      5.05,
+      6.469999999999999,
+      -18.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R735",
+    "side": "B",
+    "x": 3.0,
+    "y": -24.5,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.530000000000001,
+      -25.430000000000007,
+      5.05,
+      3.469999999999999,
+      -23.569999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R736",
+    "side": "B",
+    "x": 2.0,
+    "y": -25.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      1.5300000000000011,
+      -25.930000000000007,
+      5.05,
+      2.469999999999999,
+      -24.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R737",
+    "side": "B",
+    "x": 10.0,
+    "y": -18.0,
+    "w": 0.9399999999999977,
+    "h": 1.8600000000000136,
+    "height": 0.65,
+    "z": 5.05,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      9.530000000000001,
+      -18.930000000000007,
+      5.05,
+      10.469999999999999,
+      -17.069999999999993,
+      5.7
+    ]
+  },
+  {
+    "ref": "R740",
+    "side": "F",
+    "x": 2.5,
+    "y": 36.5,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      1.5699999999999932,
+      36.03,
+      7.300000000000001,
+      3.430000000000007,
+      36.97,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R741",
+    "side": "F",
+    "x": 3.0,
+    "y": 38.0,
+    "w": 0.9399999999999977,
+    "h": 1.8599999999999994,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      2.530000000000001,
+      37.07,
+      7.300000000000001,
+      3.469999999999999,
+      38.93,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R742",
+    "side": "F",
+    "x": -1.5,
+    "y": -1.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.430000000000007,
+      -1.4699999999999989,
+      7.300000000000001,
+      -0.5699999999999932,
+      -0.5300000000000011,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R743",
+    "side": "F",
+    "x": -1.5,
+    "y": -2.0,
+    "w": 1.8600000000000136,
+    "h": 0.9399999999999977,
+    "height": 0.65,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -2.430000000000007,
+      -2.469999999999999,
+      7.300000000000001,
+      -0.5699999999999932,
+      -1.5300000000000011,
+      7.950000000000001
+    ]
+  },
+  {
+    "ref": "R8",
+    "side": "F",
+    "x": -16.5,
+    "y": 22.5,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -17.980000000000004,
+      21.769999999999996,
+      7.300000000000001,
+      -15.019999999999996,
+      23.230000000000004,
+      8.200000000000001
+    ]
+  },
+  {
+    "ref": "R9",
+    "side": "F",
+    "x": -17.5,
+    "y": 21.0,
+    "w": 2.960000000000008,
+    "h": 1.460000000000008,
+    "height": 0.9,
+    "z": 7.300000000000001,
+    "source": "PCB courtyard XY + conservative height; exact manufacturer body/actuator model pending",
+    "bbox": [
+      -18.980000000000004,
+      20.269999999999996,
+      7.300000000000001,
+      -16.019999999999996,
+      21.730000000000004,
+      8.200000000000001
+    ]
+  }
+]

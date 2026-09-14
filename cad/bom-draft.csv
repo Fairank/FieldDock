@@ -1,0 +1,408 @@
+Reference,Value,Footprint,Section,Status
+U1,STM32WB5MMGH6TR,RF_Module:ST-SiP-LGA-86-11x7.3mm,mcu,Engineering revision C
+U2,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,controls,Engineering revision C
+R1,0R analog feed,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R2,10k BOOT pulldown,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R3,10k,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R4,10k,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R5,100k,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R6,100k,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R7,100k,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R8,4.7k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R9,4.7k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R10,47k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R11,47k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R12,47k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R13,47k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R14,10k,Resistor_SMD:R_0603_1608Metric,mcu,Engineering revision C
+R15,1k BOOT series,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+R16,1k LED,Resistor_SMD:R_0603_1608Metric,controls,Engineering revision C
+C1,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,mcu,Engineering revision C
+C2,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,mcu,Engineering revision C
+C3,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,mcu,Engineering revision C
+C4,10n 10V X7R,Capacitor_SMD:C_0603_1608Metric,mcu,Engineering revision C
+C5,100n RESET,Capacitor_SMD:C_0603_1608Metric,mcu,Engineering revision C
+C6,100n USB supply,Capacitor_SMD:C_0603_1608Metric,mcu,Engineering revision C
+C7,100n gate supply,Capacitor_SMD:C_0603_1608Metric,controls,Engineering revision C
+C8,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,mcu,Engineering revision C
+SW1,RESET,Button_Switch_SMD:SW_SPST_TL3342,controls,Engineering revision C
+SW2,CONFIRM,Button_Switch_SMD:SW_SPST_TL3342,controls,Engineering revision C
+SW3,STOP_REQUEST,Button_Switch_SMD:SW_SPST_TL3342,controls,Engineering revision C
+SW4,HARD_DISABLE / ALLOW,Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN,controls,Engineering revision C
+SW5,BOOT_HOLD,Button_Switch_SMD:SW_SPST_TL3342,controls,Engineering revision C
+D1,STATUS_LED,LED_SMD:LED_0603_1608Metric,controls,Engineering revision C
+U201,TPS2116DRLR,Package_TO_SOT_SMD:SOT-583-8,core_power,Engineering revision C
+R201,330k 1%,Resistor_SMD:R_0603_1608Metric,core_power,Engineering revision C
+R202,100k 1%,Resistor_SMD:R_0603_1608Metric,core_power,Engineering revision C
+R203,10k 1%,Resistor_SMD:R_0603_1608Metric,core_power,Engineering revision C
+C201,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,core_power,Engineering revision C
+C202,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,core_power,Engineering revision C
+C203,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,core_power,Engineering revision C
+U202,AP63203WU-7,Package_TO_SOT_SMD:TSOT-23-6,core_power,Engineering revision C
+L201,4.7uH SRN8040TA-4R7M,Inductor_SMD:L_Bourns_SRN8040TA,core_power,Engineering revision C
+C204,100n 25V X7R,Capacitor_SMD:C_0402_1005Metric,core_power,Engineering revision C
+C205,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,core_power,Engineering revision C
+C206,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,core_power,Engineering revision C
+C207,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,core_power,Engineering revision C
+R204,0R FB sense,Resistor_SMD:R_0603_1608Metric,core_power,Engineering revision C
+J101,GCT USB4105-GF-A / PHONE USB2 FS + 5V,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,phone_input,Engineering revision C
+J102,GCT USB4105-GF-A / AUX 5V input only,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,aux_input,Engineering revision C
+D101,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,phone_input,Engineering revision C
+U301,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,storage,Engineering revision C
+U302,"74LVC125APW,118 Nexperia",Package_SO:TSSOP-14_4.4x5mm_P0.65mm,storage,Engineering revision C
+U303,SN74LVC1G32DBVR,Package_TO_SOT_SMD:SOT-23-5,storage,Engineering revision C
+J301,DM3AT-SF-PEJM5,Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5,storage,Engineering revision C
+D301,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,storage,Engineering revision C
+D302,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,storage,Engineering revision C
+D303,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,storage,Engineering revision C
+R301,100R QOD,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R302,100k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R303,22R clock damping,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R304,22R command damping,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R305,22R MISO damping,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R306,10k default isolated,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R307,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R308,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R309,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R310,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R311,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R312,47k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R313,1k detect series,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R314,100k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R315,100k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+R316,10k,Resistor_SMD:R_0603_1608Metric,storage,Engineering revision C
+C301,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,storage,Engineering revision C
+C302,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,storage,Engineering revision C
+C303,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,storage,Engineering revision C
+C304,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,storage,Engineering revision C
+C305,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,storage,Engineering revision C
+C306,10n detect filter,Capacitor_SMD:C_0603_1608Metric,storage,Engineering revision C
+U110,TUSB320LAIRWBR,Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm,phone_input,Engineering revision C
+R110,887k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+C110,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,phone_input,Engineering revision C
+D110,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,phone_input,Engineering revision C
+U111,TPS259470LRPWR,FieldDock:Texas_RPW0010A,phone_input,Engineering revision C
+R112,470k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+R113,34.8k 0.1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+R114,10.0k 0.1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+R115,6.65k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+C111,1u 50V X7R,Capacitor_SMD:C_0805_2012Metric,phone_input,Engineering revision C
+C112,10n 50V X7R,Capacitor_SMD:C_0603_1608Metric,phone_input,Engineering revision C
+C113,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,phone_input,Engineering revision C
+U112,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,phone_input,Engineering revision C
+U113,TS5A3159ADBVR,Package_TO_SOT_SMD:SOT-23-6,phone_input,Engineering revision C
+R116,64.9k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+U114,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,phone_input,Engineering revision C
+R117,100k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+R118,100k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+C114,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,phone_input,Engineering revision C
+C115,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,phone_input,Engineering revision C
+R119,100k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+R120,100k 1%,Resistor_SMD:R_0402_1005Metric,phone_input,Engineering revision C
+U150,TUSB320LAIRWBR,Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm,aux_input,Engineering revision C
+R150,887k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+C150,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,aux_input,Engineering revision C
+R151,4.7k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+D150,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,aux_input,Engineering revision C
+U151,TPS259470LRPWR,FieldDock:Texas_RPW0010A,aux_input,Engineering revision C
+R152,470k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+R153,34.8k 0.1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+R154,10.0k 0.1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+R155,1.65k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+C151,1u 50V X7R,Capacitor_SMD:C_0805_2012Metric,aux_input,Engineering revision C
+C152,10n 50V X7R,Capacitor_SMD:C_0603_1608Metric,aux_input,Engineering revision C
+C153,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,aux_input,Engineering revision C
+U152,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,aux_input,Engineering revision C
+U153,TS5A3159ADBVR,Package_TO_SOT_SMD:SOT-23-6,aux_input,Engineering revision C
+R156,34.0k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+U154,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,aux_input,Engineering revision C
+R157,100k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+R158,100k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+C154,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,aux_input,Engineering revision C
+C155,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,aux_input,Engineering revision C
+R159,100k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+R160,100k 1%,Resistor_SMD:R_0402_1005Metric,aux_input,Engineering revision C
+U190,TPS3700DDCR,Package_TO_SOT_SMD:SOT-23-6,power_control,Engineering revision C
+R190,324k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R191,33.2k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+C190,1n 50V C0G,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+R194,324k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R195,33.2k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+C194,1n 50V C0G,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+R192,10k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R193,10k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+U191,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,power_control,Engineering revision C
+C191,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+C192,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+R196,10k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+U192,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,power_control,Engineering revision C
+U193,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,power_control,Engineering revision C
+U194,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,power_control,Engineering revision C
+R197,100k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R198,100k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R199,100k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+C195,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+C196,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+C197,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+U195,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,power_control,Engineering revision C
+R180,34.0k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+R181,100k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+C180,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,power_control,Engineering revision C
+C181,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,power_control,Engineering revision C
+R182,1k 1%,Resistor_SMD:R_0402_1005Metric,power_control,Engineering revision C
+U400,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,rf_power_isolation,Engineering revision C
+R400,100R,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+C400,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,rf_power_isolation,Engineering revision C
+C401,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,rf_power_isolation,Engineering revision C
+U401,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,rf_power_isolation,Engineering revision C
+U402,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,rf_power_isolation,Engineering revision C
+R401,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R402,10k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R403,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+C402,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,rf_power_isolation,Engineering revision C
+C403,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,rf_power_isolation,Engineering revision C
+C404,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,rf_power_isolation,Engineering revision C
+U403,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,rf_power_isolation,Engineering revision C
+R404,47k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R405,47k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R406,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R407,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R408,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R409,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+R410,100k,Resistor_SMD:R_0402_1005Metric,rf_power_isolation,Engineering revision C
+U430,CC1101RGPT,Package_DFN_QFN:Texas_RGP0020H_VQFN-20-1EP_4x4mm_P0.5mm_EP2.4x2.4mm,subghz,Engineering revision C
+Y430,XRCGB26M000F3M00R0 26MHz CL6pF,FieldDock:Murata_XRCGB_2016,subghz,Engineering revision C
+C430,9p C0G 50V initial CL trim,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C431,9p C0G 50V initial CL trim,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+R430,56k 1%,Resistor_SMD:R_0402_1005Metric,subghz,Engineering revision C
+C432,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C433,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C434,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C435,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C436,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C437,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C438,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C439,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,subghz,Engineering revision C
+C440,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C441,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+T430,B0310J50100AHF,FieldDock:TTM_B0310J50100AHF,subghz,Engineering revision C
+L430,3.3nH 0.2nH RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L431,6.8nH 0.2nH RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+C442,1.2p C0G 0.1p 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C443,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C444,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C445,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+U431,BGS13S4N9E6327XTSA1,FieldDock:Infineon_TSNP9_1.1x1.1_P0.4,subghz,Engineering revision C
+U432,BGS13S4N9E6327XTSA1,FieldDock:Infineon_TSNP9_1.1x1.1_P0.4,subghz,Engineering revision C
+C446,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C447,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+R431,100k,Resistor_SMD:R_0402_1005Metric,subghz,Engineering revision C
+L440,12nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L441,39nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L442,12nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+C450,12p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C451,12p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+L443,8.2nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L444,27nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L445,8.2nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+C452,8.2p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C453,8.2p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+L446,4.3nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L447,13nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+L448,4.3nH 5% RF,Inductor_SMD:L_0402_1005Metric,subghz,Engineering revision C
+C454,4.3p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+C455,4.3p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,subghz,Engineering revision C
+R432,0R antenna matching link,Resistor_SMD:R_0402_1005Metric,subghz,Engineering revision C
+J430,U.FL-R-SMT-1(10) / 50R antenna,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,subghz,Engineering revision C
+U500,ST25R3916-AQWT,FieldDock:ST_VFQFPN32_5x5_EP3.5,nfc,Engineering revision C
+Y500,XRCGB27M120F3M00R0 27.12MHz CL6pF,FieldDock:Murata_XRCGB_2016,nfc,Engineering revision C
+C500,6p C0G 50V,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C501,6p C0G 50V,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C502,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C503,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C504,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C505,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C506,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C507,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C508,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C509,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C510,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+C511,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C512,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C513,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,nfc,Engineering revision C
+L500,270nH 5% RF wirewound,Inductor_SMD:L_0603_1608Metric,nfc,Engineering revision C
+C520,680p C0G 50V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C521,100p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C522,62p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C523,10p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C524,100p C0G 50V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+R500,0R antenna tuning link,Resistor_SMD:R_0603_1608Metric,nfc,Engineering revision C
+C530,DNP C0G trim,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+L501,270nH 5% RF wirewound,Inductor_SMD:L_0603_1608Metric,nfc,Engineering revision C
+C525,680p C0G 50V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C526,100p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C527,62p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C528,10p C0G 100V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+C529,100p C0G 50V,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+R501,0R antenna tuning link,Resistor_SMD:R_0603_1608Metric,nfc,Engineering revision C
+C531,DNP C0G trim,Capacitor_SMD:C_0603_1608Metric,nfc,Engineering revision C
+J500,NFC antenna 1.37uH nominal / soldered twisted pair,FieldDock:Antenna_2Pad_2mm,nfc,Engineering revision C
+U600,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,lf_rfid,Engineering revision C
+U601,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,lf_rfid,Engineering revision C
+U602,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,lf_rfid,Engineering revision C
+R600,100R,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C600,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+C601,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+C602,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+C603,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+R601,100k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R602,100k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+Q600,DMP2004K-7,Package_TO_SOT_SMD:SOT-23,lf_rfid,Engineering revision C
+Q601,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,lf_rfid,Engineering revision C
+Q602,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,lf_rfid,Engineering revision C
+R603,4.7R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,lf_rfid,Engineering revision C
+R604,4.7R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,lf_rfid,Engineering revision C
+R605,510R 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R606,51R,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R607,10k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C604,3.3n C0G 100V,Capacitor_SMD:C_0805_2012Metric,lf_rfid,Engineering revision C
+C605,DNP C0G 100V trim,Capacitor_SMD:C_0805_2012Metric,lf_rfid,Engineering revision C
+J600,LF coil ~500uH / soldered twisted pair,FieldDock:Antenna_2Pad_2mm,lf_rfid,Engineering revision C
+D600,1N4148W-7-F,Diode_SMD:D_SOD-123,lf_rfid,Engineering revision C
+D601,MM3Z33VT1G 33V,Diode_SMD:D_SOD-323,lf_rfid,Engineering revision C
+R608,330k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C606,10n X7R 100V,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+R609,5.1k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C607,1n C0G 100V,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+C608,220n X7R 100V,Capacitor_SMD:C_0805_2012Metric,lf_rfid,Engineering revision C
+U603,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,lf_rfid,Engineering revision C
+C609,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+Q603,DMN5L06TK-7,Package_TO_SOT_SMD:SOT-523,lf_rfid,Engineering revision C
+R610,440R,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R611,100k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R612,330R 0.25W,Resistor_SMD:R_0805_2012Metric,lf_rfid,Engineering revision C
+R613,10R,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C610,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+U604,LMV358AIDGKR,Package_SO:VSSOP-8_3x3mm_P0.65mm,lf_rfid,Engineering revision C
+R614,33k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R615,33k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C611,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,lf_rfid,Engineering revision C
+R616,1M 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R617,1k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R618,4.7k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C612,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+U605,LMV358AIDGKR,Package_SO:VSSOP-8_3x3mm_P0.65mm,lf_rfid,Engineering revision C
+C613,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+R620,1k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R621,1k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R622,10k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C620,4.7n C0G 50V,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+C621,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+R623,1k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R624,1k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R625,10k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C622,4.7n C0G 50V,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+C623,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+R626,33k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R627,20k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C624,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+U606,LMV331IDCKR,Package_TO_SOT_SMD:SOT-353_SC-70-5,lf_rfid,Engineering revision C
+R628,330k 1%,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+R629,10k,Resistor_SMD:R_0402_1005Metric,lf_rfid,Engineering revision C
+C625,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,lf_rfid,Engineering revision C
+D602,"BAT54S,215",Package_TO_SOT_SMD:SOT-23,lf_rfid,Engineering revision C
+D603,"BAT54S,215",Package_TO_SOT_SMD:SOT-23,lf_rfid,Engineering revision C
+U700,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,gpio_tools,Engineering revision C
+C700,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,gpio_tools,Engineering revision C
+U701,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,gpio_tools,Engineering revision C
+C701,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,gpio_tools,Engineering revision C
+R700,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R701,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R702,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R703,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R704,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R705,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R706,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R707,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R708,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R709,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R710,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R711,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R712,51R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+D700,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D701,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D702,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D703,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D704,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D705,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+D706,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,gpio_tools,Engineering revision C
+R713,0R,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+U702,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,gpio_tools,Engineering revision C
+R714,226k 1% / ~120mA limit,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R715,10k,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R716,10k output bleed,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+C702,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,gpio_tools,Engineering revision C
+C703,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,gpio_tools,Engineering revision C
+J700,2x8 2.54mm GPIO 3.3V / 5V-tolerant inputs,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD,gpio_tools,Engineering revision C
+R717,DNP 4.7k I2C pullup,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+R718,DNP 4.7k I2C pullup,Resistor_SMD:R_0402_1005Metric,gpio_tools,Engineering revision C
+U710,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,ir_ibutton,Engineering revision C
+R7100,100R,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+C710,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,ir_ibutton,Engineering revision C
+C711,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,ir_ibutton,Engineering revision C
+U711,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,ir_ibutton,Engineering revision C
+C712,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric_FieldDock_NoSilk,ir_ibutton,Engineering revision C
+Q710,DMN2058UW-7,Package_TO_SOT_SMD:SOT-323_SC-70,ir_ibutton,Engineering revision C
+R719,100R,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+R720,100k,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+R721,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,ir_ibutton,Engineering revision C
+D710,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,ir_ibutton,Engineering revision C
+R722,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,ir_ibutton,Engineering revision C
+D711,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,ir_ibutton,Engineering revision C
+R723,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,ir_ibutton,Engineering revision C
+D712,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,ir_ibutton,Engineering revision C
+R724,100R,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+C713,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,ir_ibutton,Engineering revision C
+U712,TSOP75338TR,FieldDock:Vishay_TSOP753_TR,ir_ibutton,Engineering revision C
+R725,100k,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+U713,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,ir_ibutton,Engineering revision C
+C714,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,ir_ibutton,Engineering revision C
+Q711,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,ir_ibutton,Engineering revision C
+R726,100R,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+R727,100k,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+D713,BAT54WS-7-F,Diode_SMD:D_SOD-323,ir_ibutton,Engineering revision C
+R728,4.7k,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+R729,100R,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+R730,100k,Resistor_SMD:R_0402_1005Metric,ir_ibutton,Engineering revision C
+D714,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,ir_ibutton,Engineering revision C
+J710,iButton contact probe / DATA GND,FieldDock:Antenna_2Pad_2mm,ir_ibutton,Engineering revision C
+U730,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,probe_control,Engineering revision C
+U731,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,probe_control,Engineering revision C
+R731,100k,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+R732,10k,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+C730,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,probe_control,Engineering revision C
+C731,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,probe_control,Engineering revision C
+C732,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,probe_control,Engineering revision C
+U732,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,probe_control,Engineering revision C
+R733,51R,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+R734,51R,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+R735,51R,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+R736,51R,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+R737,51R,Resistor_SMD:R_0402_1005Metric,probe_control,Engineering revision C
+D730,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,probe_control,Engineering revision C
+D731,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,probe_control,Engineering revision C
+D732,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,probe_control,Engineering revision C
+J730,SM08B-GHS-TB(LF)(SN) AUX powered probe,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,probe_control,Engineering revision C
+U740,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,feedback,Engineering revision C
+C740,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,feedback,Engineering revision C
+C741,100n 16V X7R series AC,Capacitor_SMD:C_0603_1608Metric,feedback,Engineering revision C
+R740,100R,Resistor_SMD:R_0402_1005Metric,feedback,Engineering revision C
+R741,100k,Resistor_SMD:R_0402_1005Metric,feedback,Engineering revision C
+BZ740,PKMCS0909E4000-R1,FieldDock:Murata_PKMCS0909,feedback,Engineering revision C
+U741,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,feedback,Engineering revision C
+C742,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,feedback,Engineering revision C
+R742,100R,Resistor_SMD:R_0402_1005Metric,feedback,Engineering revision C
+R743,100k,Resistor_SMD:R_0402_1005Metric,feedback,Engineering revision C
+Q740,DMN2058UW-7,Package_TO_SOT_SMD:SOT-323_SC-70,feedback,Engineering revision C
+D740,1N4148W-7-F flyback,Diode_SMD:D_SOD-123,feedback,Engineering revision C
+J740,3V 8x2mm coin motor / wire attach,FieldDock:Antenna_2Pad_2mm,feedback,Engineering revision C

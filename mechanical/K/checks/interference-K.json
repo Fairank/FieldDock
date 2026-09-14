@@ -1,0 +1,33 @@
+{
+  "status": "PASS_ENVELOPE_INTERFERENCE_ONLY",
+  "tested_pairs": 50,
+  "unintended_overlaps": [],
+  "intended_overlaps": [
+    {
+      "a": "M01_base",
+      "b": "S_M2_1",
+      "volume_mm3": 4.184601,
+      "reason": "Thread-forming screw nominal cylinder overlaps pilot hole material by design"
+    },
+    {
+      "a": "M01_base",
+      "b": "S_M2_2",
+      "volume_mm3": 4.184601,
+      "reason": "Thread-forming screw nominal cylinder overlaps pilot hole material by design"
+    },
+    {
+      "a": "M01_base",
+      "b": "S_M2_3",
+      "volume_mm3": 4.184601,
+      "reason": "Thread-forming screw nominal cylinder overlaps pilot hole material by design"
+    },
+    {
+      "a": "M01_base",
+      "b": "S_M2_4",
+      "volume_mm3": 4.184601,
+      "reason": "Thread-forming screw nominal cylinder overlaps pilot hole material by design"
+    }
+  ],
+  "scope": "CAD solids and conservative placed component envelopes; no tolerances, force, cable bend or antenna performance qualification",
+  "manufacturing_release": false
+}

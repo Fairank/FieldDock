@@ -1,0 +1,10 @@
+Path,Origin,License_or_status,Publish_status
+firmware/**,New project C implementation and tests,LicenseRef-FieldDock-NC-1.0,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+*_circuit.py,Project-written connection descriptions; disclosed functional references,LicenseRef-FieldDock-NC-1.0 for original expression only,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+cad/*.kicad_sch,Project electronic design with embedded KiCad library data,FieldDock NC original portions; KiCad library exception,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+cad/FD-MAIN-01.kicad_pcb,Project placement and routing with embedded KiCad footprints,FieldDock NC original portions; KiCad library exception,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+cad/footprints/**,See per-file library-inventory.csv,Per-file license; no NC restriction on KiCad portions,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+cad/symbols/**,See FILE-REVIEW.md including two adapted MOSFET symbols,Per-entry license; no NC restriction on KiCad portions,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+mechanical/**,Original parametric solids and conservative component envelopes,LicenseRef-FieldDock-NC-1.0,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+branding/**,Approved AI-assisted Niangao master and faithful CAD conversion,LicenseRef-FieldDock-NC-1.0 within protectable original rights,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE
+checks/**,Project-generated engineering evidence,LicenseRef-FieldDock-NC-1.0 within protectable original rights,SOURCE_SCOPE_REVIEWED_ENGINEERING_STATUS_SEPARATE

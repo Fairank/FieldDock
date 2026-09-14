@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "filename": "FD-MAIN-01.kicad_pro",
+    "version": 1
+  },
+  "board": {
+    "design_settings": {
+      "rules": {
+        "min_clearance": 0.1,
+        "min_track_width": 0.1,
+        "min_via_diameter": 0.3,
+        "min_through_hole_diameter": 0.15,
+        "min_via_annular_width": 0.075,
+        "min_hole_to_hole": 0.25,
+        "min_copper_edge_clearance": 0.2,
+        "min_hole_clearance": 0.15
+      },
+      "drc_exclusions": []
+    }
+  },
+  "net_settings": {
+    "meta": {
+      "version": 4
+    },
+    "classes": [
+      {
+        "name": "Default",
+        "clearance": 0.1,
+        "track_width": 0.15,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "diff_pair_width": 0.18,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.2,
+        "bus_width": 12,
+        "wire_width": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "Fine_escape",
+        "clearance": 0.1,
+        "track_width": 0.1,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "diff_pair_width": 0.18,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.2,
+        "bus_width": 12,
+        "wire_width": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "Power",
+        "clearance": 0.1,
+        "track_width": 0.4,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "diff_pair_width": 0.18,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.2,
+        "bus_width": 12,
+        "wire_width": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "Analog_Power",
+        "clearance": 0.1,
+        "track_width": 0.3,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "diff_pair_width": 0.18,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.2,
+        "bus_width": 12,
+        "wire_width": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "RF_50R_initial",
+        "clearance": 0.1,
+        "track_width": 0.32,
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "diff_pair_width": 0.18,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.2,
+        "bus_width": 12,
+        "wire_width": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)"
+      }
+    ],
+    "netclass_patterns": [
+      {
+        "netclass": "Fine_escape",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "CSI_IRQ"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "AUX_PROBE_BUDGET_OK"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "CSI_REQUEST"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TARGET_CS_N"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TOOLS_ARM"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "CONFIRM_N"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "SD_POWER_EN"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "STOP_N"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TARGET_IO3"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TOOLS_IO_ARM"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "STATUS_LED"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "EXT_GOOD"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "EXT_REQUEST"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "HARD_ALLOW"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TARGET_IO0"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "SD_BUS_DISABLE"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "PHONE_BUDGET_OK"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TARGET_IO1"
+      },
+      {
+        "netclass": "Fine_escape",
+        "pattern": "TARGET_IO4"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "V3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "PHONE_VBUS_RAW"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "AUX_VBUS_RAW"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "V3V3_RF"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "V3V3_TARGET"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "EXT_PROBE5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "CORE5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "EXT5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "PHONE5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "LF5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "TOOLS5"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_RFO1"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_RFO2"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_COIL_P"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_COIL_N"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "LF_AR1"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "LF_AR2"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_ANT_P"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_ANT_N"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_FILTER_P"
+      },
+      {
+        "netclass": "Analog_Power",
+        "pattern": "NFC_FILTER_N"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_ANT"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_UNBAL"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_IN_900"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_IN_315"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_FILTER_IN"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_IN_433"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_OUT_900"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_OUT_315"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_FILTER_OUT"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_OUT_433"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_MATCH"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M1_315"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M2_315"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M1_433"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M2_433"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M1_900"
+      },
+      {
+        "netclass": "RF_50R_initial",
+        "pattern": "SUB_F_M2_900"
+      }
+    ]
+  }
+}

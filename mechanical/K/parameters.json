@@ -1,0 +1,41 @@
+{
+  "length": 100.0,
+  "width": 46.0,
+  "height": 18.0,
+  "radius": 6.0,
+  "wall": 1.6,
+  "lid_z": 16.0,
+  "pcb_width": 40.0,
+  "pcb_length": 94.0,
+  "pcb_z": 5.7,
+  "pcb_thickness": 1.6,
+  "coil_center_y": 24.5,
+  "port_spacing": 25.0,
+  "mount_positions": [
+    [
+      -17,
+      27
+    ],
+    [
+      17,
+      43
+    ],
+    [
+      -17,
+      -32
+    ],
+    [
+      0,
+      -44
+    ]
+  ],
+  "status": "PLACEMENT_ENVELOPES_NOT_QUALIFIED_FOR_PRODUCTION",
+  "coil_width": 30,
+  "coil_length": 34,
+  "body_dimensions": [
+    46,
+    100,
+    18
+  ],
+  "manufacturing_release": false
+}

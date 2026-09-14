@@ -1,0 +1,141 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-09T23:47:23",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df",
+            "violations": []
+        },
+        {
+            "path": "/mcu_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/74621dc7-c6f8-5917-a7c7-e147e29a4826",
+            "violations": []
+        },
+        {
+            "path": "/mcu_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/0d973494-d4b7-5ddc-9fc9-dc27ac483b6d",
+            "violations": []
+        },
+        {
+            "path": "/controls_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/f5252ff9-e0eb-5f30-89c6-a5582b75282c",
+            "violations": []
+        },
+        {
+            "path": "/core_power_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/85e286e8-b703-5a66-ba41-04f57d4d731e",
+            "violations": []
+        },
+        {
+            "path": "/phone_input_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/6fe2bfe8-f24c-50cf-8296-44b341e44f33",
+            "violations": []
+        },
+        {
+            "path": "/aux_input_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/f98150a6-3d46-5883-b511-9945b8d0edba",
+            "violations": []
+        },
+        {
+            "path": "/storage_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/79dec388-e67a-5802-a5e7-a78d3c578be5",
+            "violations": []
+        },
+        {
+            "path": "/storage_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/0c1bffe2-7dd0-5ca8-b4d6-dd2d075b5219",
+            "violations": []
+        },
+        {
+            "path": "/power_control_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/06bc19fe-8601-5cf5-b0d4-5512eefc9ca3",
+            "violations": []
+        },
+        {
+            "path": "/rf_power_isolation_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/a6b79edb-772d-554c-ad13-c9c1e24c7c5b",
+            "violations": []
+        },
+        {
+            "path": "/subghz_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/a37baa27-e55c-5178-b3c9-27da9b00d18b",
+            "violations": []
+        },
+        {
+            "path": "/subghz_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/80967e97-d3e9-540f-b0f6-ef85092c1ffb",
+            "violations": []
+        },
+        {
+            "path": "/nfc_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/f0645caf-fb2d-5a41-9b35-364ed339a5bf",
+            "violations": []
+        },
+        {
+            "path": "/nfc_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/b26821f7-b04b-5812-b1fb-7187a731a0d7",
+            "violations": []
+        },
+        {
+            "path": "/lf_rfid_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/d1d014ab-f474-5b48-a755-b5910688009c",
+            "violations": []
+        },
+        {
+            "path": "/lf_rfid_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/8a092a37-6836-5754-b8c1-0868587894a1",
+            "violations": []
+        },
+        {
+            "path": "/gpio_tools_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/ebfbbe11-439a-5f6d-8f8f-660b1452220c",
+            "violations": []
+        },
+        {
+            "path": "/gpio_tools_2/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/df0b1c8f-8baf-5b70-a4bf-1e6dbc3d5d5d",
+            "violations": []
+        },
+        {
+            "path": "/ir_ibutton_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/5f37e761-074a-5a36-a494-f447ee79bf59",
+            "violations": []
+        },
+        {
+            "path": "/probe_control_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/91004c84-6d28-5e5e-8801-5e68ace27480",
+            "violations": []
+        },
+        {
+            "path": "/feedback_1/",
+            "uuid_path": "/3cd19e87-db8c-5a96-8882-57c60f21f3df/2d13912d-23eb-5378-85a7-9f6e999539a7",
+            "violations": []
+        }
+    ],
+    "source": "FD-MAIN-01.kicad_sch"
+}

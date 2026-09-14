@@ -1,0 +1,421 @@
+Reference,FunctionSection,Value,Footprint,Population,MPN_or_candidate,LCSC,UnitLowCNY,UnitHighCNY,PriceBasis,Source,ProcurementReady
+U1,mcu,STM32WB5MMGH6TR,RF_Module:ST-SiP-LGA-86-11x7.3mm,POPULATE,STM32WB5MMGH6TR,C5184586,78,115,10.7293 USD reference; out of stock,https://www.lcsc.com/product-detail/C5184586.html,NO
+U2,controls,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+R1,mcu,0R analog feed,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R2,mcu,10k BOOT pulldown,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R3,controls,10k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R4,controls,10k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R5,controls,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R6,controls,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R7,controls,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R8,mcu,4.7k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R9,mcu,4.7k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R10,mcu,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R11,mcu,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R12,mcu,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R13,mcu,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R14,mcu,10k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R15,controls,1k BOOT series,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R16,controls,1k LED,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C1,mcu,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C2,mcu,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C3,mcu,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C4,mcu,10n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C5,mcu,100n RESET,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C6,mcu,100n USB supply,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C7,controls,100n gate supply,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C8,mcu,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+SW1,controls,RESET,Button_Switch_SMD:SW_SPST_TL3342,POPULATE,TL3342F160QG,,2,6,C&K footprint candidate; MPN height validation pending,,NO
+SW2,controls,CONFIRM,Button_Switch_SMD:SW_SPST_TL3342,POPULATE,TL3342F160QG,,2,6,C&K footprint candidate; MPN height validation pending,,NO
+SW3,controls,STOP_REQUEST,Button_Switch_SMD:SW_SPST_TL3342,POPULATE,TL3342F160QG,,2,6,C&K footprint candidate; MPN height validation pending,,NO
+SW4,controls,HARD_DISABLE / ALLOW,Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN,POPULATE,JS102011SAQN,,2,6,C&K footprint candidate; MPN height validation pending,,NO
+SW5,controls,BOOT_HOLD,Button_Switch_SMD:SW_SPST_TL3342,POPULATE,TL3342F160QG,,2,6,C&K footprint candidate; MPN height validation pending,,NO
+D1,controls,STATUS_LED,LED_SMD:LED_0603_1608Metric,POPULATE,,,0.08,0.6,Engineering allowance,,NO
+U201,core_power,TPS2116DRLR,Package_TO_SOT_SMD:SOT-583-8,POPULATE,TPS2116DRLR,C3235557,3.4,6,0.4589 USD public reference,https://www.lcsc.com/product-detail/C3235557.html,MPN identified; availability and package still review
+R201,core_power,330k 1%,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R202,core_power,100k 1%,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R203,core_power,10k 1%,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C201,core_power,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C202,core_power,4.7u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C203,core_power,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,POPULATE,,,0.6,1.8,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U202,core_power,AP63203WU-7,Package_TO_SOT_SMD:TSOT-23-6,POPULATE,AP63203WU-7,,1,3,Engineering allowance,,MPN identified; availability and package still review
+L201,core_power,4.7uH SRN8040TA-4R7M,Inductor_SMD:L_Bourns_SRN8040TA,POPULATE,,,3,7,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C204,core_power,100n 25V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C205,core_power,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C206,core_power,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,POPULATE,,,0.6,1.8,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C207,core_power,22u 10V X7R,Capacitor_SMD:C_1206_3216Metric,POPULATE,,,0.6,1.8,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R204,core_power,0R FB sense,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+J101,phone_input,GCT USB4105-GF-A / PHONE USB2 FS + 5V,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,POPULATE,USB4105-GF-A,,4,9,GCT connector allowance; full ordering suffix to freeze,,NO
+J102,aux_input,GCT USB4105-GF-A / AUX 5V input only,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,POPULATE,USB4105-GF-A,,4,9,GCT connector allowance; full ordering suffix to freeze,,NO
+TP1,mcu,V3V3,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP2,mcu,GND,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP3,mcu,SWDIO,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP4,mcu,SWCLK,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP5,mcu,NRST,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP6,mcu,CORE5,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP7,mcu,EXT5,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP8,mcu,PHONE5,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+D101,phone_input,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+U301,storage,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,POPULATE,TPS22919DCKR,C2149796,1,2,0.1282 USD at 5 pcs; purchase multiple applies,https://www.lcsc.com/product-detail/C2149796.html,MPN identified; availability and package still review
+U302,storage,"74LVC125APW,118 Nexperia",Package_SO:TSSOP-14_4.4x5mm_P0.65mm,POPULATE,"74LVC125APW,118 Nexperia",,1,3,Exact Ioff-capable part retained,,MPN identified; availability and package still review
+U303,storage,SN74LVC1G32DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G32DBVR,,0.5,1.5,Engineering allowance,,MPN identified; availability and package still review
+J301,storage,DM3AT-SF-PEJM5,Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5,POPULATE,DM3AT-SF-PEJM5,C114218,11,20,Engineering allowance; mating connector retained,https://www.lcsc.com/product-detail/C114218.html,MPN identified; availability and package still review
+D301,storage,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D302,storage,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D303,storage,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+R301,storage,100R QOD,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R302,storage,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R303,storage,22R clock damping,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R304,storage,22R command damping,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R305,storage,22R MISO damping,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R306,storage,10k default isolated,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R307,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R308,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R309,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R310,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R311,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R312,storage,47k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R313,storage,1k detect series,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R314,storage,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R315,storage,100k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R316,storage,10k,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C301,storage,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C302,storage,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C303,storage,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C304,storage,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C305,storage,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C306,storage,10n detect filter,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U110,phone_input,TUSB320LAIRWBR,Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm,POPULATE,TUSB320LAIRWBR,C132554,6,12,RMB engineering allowance; price not verified,https://www.lcsc.com/product-detail/C132554.html,MPN identified; availability and package still review
+R110,phone_input,887k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C110,phone_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+D110,phone_input,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+U111,phone_input,TPS259470LRPWR,FieldDock:Texas_RPW0010A,POPULATE,TPS259470LRPWR,C3662793,7.4,12,1.021 USD public reference,https://www.lcsc.com/product-image/C3662793.html,MPN identified; availability and package still review
+R112,phone_input,470k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R113,phone_input,34.8k 0.1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.2,0.7,Generic resistor allowance; tolerance/power must be frozen,,NO
+R114,phone_input,10.0k 0.1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.2,0.7,Generic resistor allowance; tolerance/power must be frozen,,NO
+R115,phone_input,6.65k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C111,phone_input,1u 50V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C112,phone_input,10n 50V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C113,phone_input,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U112,phone_input,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TPS2553DBVR,C55266,2.5,6,Allowance; retain exact non -1 suffix,https://www.lcsc.com/product-detail/C55266.html,MPN identified; availability and package still review
+U113,phone_input,TS5A3159ADBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TS5A3159ADBVR,,1.5,5,Engineering allowance,,MPN identified; availability and package still review
+R116,phone_input,64.9k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U114,phone_input,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+R117,phone_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R118,phone_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C114,phone_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C115,phone_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R119,phone_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R120,phone_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+TP110,phone_input,PHONE_EF_FAULT_N,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP111,phone_input,PHONE_LIMIT_FAULT_N,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+U150,aux_input,TUSB320LAIRWBR,Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm,POPULATE,TUSB320LAIRWBR,C132554,6,12,RMB engineering allowance; price not verified,https://www.lcsc.com/product-detail/C132554.html,MPN identified; availability and package still review
+R150,aux_input,887k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C150,aux_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R151,aux_input,4.7k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D150,aux_input,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+U151,aux_input,TPS259470LRPWR,FieldDock:Texas_RPW0010A,POPULATE,TPS259470LRPWR,C3662793,7.4,12,1.021 USD public reference,https://www.lcsc.com/product-image/C3662793.html,MPN identified; availability and package still review
+R152,aux_input,470k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R153,aux_input,34.8k 0.1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.2,0.7,Generic resistor allowance; tolerance/power must be frozen,,NO
+R154,aux_input,10.0k 0.1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.2,0.7,Generic resistor allowance; tolerance/power must be frozen,,NO
+R155,aux_input,1.65k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C151,aux_input,1u 50V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C152,aux_input,10n 50V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C153,aux_input,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U152,aux_input,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TPS2553DBVR,C55266,2.5,6,Allowance; retain exact non -1 suffix,https://www.lcsc.com/product-detail/C55266.html,MPN identified; availability and package still review
+U153,aux_input,TS5A3159ADBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TS5A3159ADBVR,,1.5,5,Engineering allowance,,MPN identified; availability and package still review
+R156,aux_input,34.0k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U154,aux_input,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+R157,aux_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R158,aux_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C154,aux_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C155,aux_input,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R159,aux_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R160,aux_input,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+TP150,aux_input,AUX_EF_FAULT_N,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+TP151,aux_input,AUX_LIMIT_FAULT_N,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+U190,power_control,TPS3700DDCR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TPS3700DDCR,,6,15,Engineering allowance,,MPN identified; availability and package still review
+R190,power_control,324k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R191,power_control,33.2k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C190,power_control,1n 50V C0G,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R194,power_control,324k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R195,power_control,33.2k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C194,power_control,1n 50V C0G,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R192,power_control,10k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R193,power_control,10k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U191,power_control,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G04DBVR,,0.5,1.5,Engineering allowance,,MPN identified; availability and package still review
+C191,power_control,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C192,power_control,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R196,power_control,10k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U192,power_control,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U193,power_control,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U194,power_control,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+R197,power_control,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R198,power_control,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R199,power_control,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C195,power_control,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C196,power_control,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C197,power_control,100n 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U195,power_control,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TPS2553DBVR,C55266,2.5,6,Allowance; retain exact non -1 suffix,https://www.lcsc.com/product-detail/C55266.html,MPN identified; availability and package still review
+R180,power_control,34.0k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R181,power_control,100k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C180,power_control,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C181,power_control,10u 10V X7R,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R182,power_control,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U400,rf_power_isolation,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,POPULATE,TPS22919DCKR,C2149796,1,2,0.1282 USD at 5 pcs; purchase multiple applies,https://www.lcsc.com/product-detail/C2149796.html,MPN identified; availability and package still review
+R400,rf_power_isolation,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C400,rf_power_isolation,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C401,rf_power_isolation,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U401,rf_power_isolation,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U402,rf_power_isolation,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G04DBVR,,0.5,1.5,Engineering allowance,,MPN identified; availability and package still review
+R401,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R402,rf_power_isolation,10k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R403,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C402,rf_power_isolation,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C403,rf_power_isolation,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C404,rf_power_isolation,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U403,rf_power_isolation,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,POPULATE,SN74CB3T3245PWR,C15298,6,15,Allowance; exact T series for 5V input translation,https://www.lcsc.com/product-detail/C15298.html,MPN identified; availability and package still review
+R404,rf_power_isolation,47k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R405,rf_power_isolation,47k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R406,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R407,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R408,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R409,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R410,rf_power_isolation,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U430,subghz,CC1101RGPT,Package_DFN_QFN:Texas_RGP0020H_VQFN-20-1EP_4x4mm_P0.5mm_EP2.4x2.4mm,POPULATE,CC1101RGPT,C2654650,13,20,1.6895 USD public reference,https://www.lcsc.com/product-detail/C2654650.html,MPN identified; availability and package still review
+Y430,subghz,XRCGB26M000F3M00R0 26MHz CL6pF,FieldDock:Murata_XRCGB_2016,POPULATE,XRCGB26M000F3M00R0,,2,5,Murata exact part; engineering allowance,,MPN identified; availability and package still review
+C430,subghz,9p C0G 50V initial CL trim,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C431,subghz,9p C0G 50V initial CL trim,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R430,subghz,56k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C432,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C433,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C434,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C435,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C436,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C437,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C438,subghz,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C439,subghz,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C440,subghz,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C441,subghz,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+T430,subghz,B0310J50100AHF,FieldDock:TTM_B0310J50100AHF,POPULATE,B0310J50100AHF,C5160223,8.4,12,1.1519 USD reference; stock must be rechecked,https://www.lcsc.com/product-detail/C5160223.html,MPN identified; availability and package still review
+L430,subghz,3.3nH 0.2nH RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L431,subghz,6.8nH 0.2nH RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C442,subghz,1.2p C0G 0.1p 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C443,subghz,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+C444,subghz,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+C445,subghz,DNP C0G matching trim,Capacitor_SMD:C_0402_1005Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+U431,subghz,BGS13S4N9E6327XTSA1,FieldDock:Infineon_TSNP9_1.1x1.1_P0.4,POPULATE,BGS13S4N9E6327XTSA1,C534205,2.5,8,Stock/lifecycle unresolved; procurement gate,https://www.lcsc.com/product-detail/C534205.html,NO
+U432,subghz,BGS13S4N9E6327XTSA1,FieldDock:Infineon_TSNP9_1.1x1.1_P0.4,POPULATE,BGS13S4N9E6327XTSA1,C534205,2.5,8,Stock/lifecycle unresolved; procurement gate,https://www.lcsc.com/product-detail/C534205.html,NO
+C446,subghz,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C447,subghz,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R431,subghz,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+L440,subghz,12nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L441,subghz,39nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L442,subghz,12nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C450,subghz,12p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C451,subghz,12p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+L443,subghz,8.2nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L444,subghz,27nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L445,subghz,8.2nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C452,subghz,8.2p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C453,subghz,8.2p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+L446,subghz,4.3nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L447,subghz,13nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+L448,subghz,4.3nH 5% RF,Inductor_SMD:L_0402_1005Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C454,subghz,4.3p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C455,subghz,4.3p C0G 2% 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R432,subghz,0R antenna matching link,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+J430,subghz,U.FL-R-SMT-1(10) / 50R antenna,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,POPULATE,U.FL-R-SMT-1(10),,3,7,Hirose exact part allowance,,MPN identified; availability and package still review
+U500,nfc,ST25R3916-AQWT,FieldDock:ST_VFQFPN32_5x5_EP3.5,POPULATE,ST25R3916-AQWT,C2908147,39,55,5.4212 USD; page shows 93; lifecycle NRND,https://www.lcsc.com/product-detail/C2908147.html,MPN identified; availability and package still review
+Y500,nfc,XRCGB27M120F3M00R0 27.12MHz CL6pF,FieldDock:Murata_XRCGB_2016,POPULATE,XRCGB27M120F3M00R0,,2,5,Murata exact part; engineering allowance,,MPN identified; availability and package still review
+C500,nfc,6p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C501,nfc,6p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C502,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C503,nfc,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C504,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C505,nfc,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C506,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C507,nfc,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C508,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C509,nfc,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C510,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C511,nfc,2.2u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C512,nfc,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C513,nfc,10n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+L500,nfc,270nH 5% RF wirewound,Inductor_SMD:L_0603_1608Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C520,nfc,680p C0G 50V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C521,nfc,100p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C522,nfc,62p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C523,nfc,10p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C524,nfc,100p C0G 50V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R500,nfc,0R antenna tuning link,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C530,nfc,DNP C0G trim,Capacitor_SMD:C_0603_1608Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+L501,nfc,270nH 5% RF wirewound,Inductor_SMD:L_0603_1608Metric,POPULATE,,,0.5,2,Inductor allowance; RF Q/SRF or saturation current must be frozen,,NO
+C525,nfc,680p C0G 50V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C526,nfc,100p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C527,nfc,62p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C528,nfc,10p C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C529,nfc,100p C0G 50V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R501,nfc,0R antenna tuning link,Resistor_SMD:R_0603_1608Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C531,nfc,DNP C0G trim,Capacitor_SMD:C_0603_1608Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+J500,nfc,NFC antenna 1.37uH nominal / soldered twisted pair,FieldDock:Antenna_2Pad_2mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+U600,lf_rfid,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U601,lf_rfid,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U602,lf_rfid,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,POPULATE,TPS22919DCKR,C2149796,1,2,0.1282 USD at 5 pcs; purchase multiple applies,https://www.lcsc.com/product-detail/C2149796.html,MPN identified; availability and package still review
+R600,lf_rfid,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C600,lf_rfid,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C601,lf_rfid,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C602,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C603,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R601,lf_rfid,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R602,lf_rfid,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+Q600,lf_rfid,DMP2004K-7,Package_TO_SOT_SMD:SOT-23,POPULATE,DMP2004K-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+Q601,lf_rfid,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,POPULATE,DMN2004K-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+Q602,lf_rfid,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,POPULATE,DMN2004K-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+R603,lf_rfid,4.7R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R604,lf_rfid,4.7R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R605,lf_rfid,510R 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R606,lf_rfid,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R607,lf_rfid,10k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C604,lf_rfid,3.3n C0G 100V,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C605,lf_rfid,DNP C0G 100V trim,Capacitor_SMD:C_0805_2012Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+J600,lf_rfid,LF coil ~500uH / soldered twisted pair,FieldDock:Antenna_2Pad_2mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+D600,lf_rfid,1N4148W-7-F,Diode_SMD:D_SOD-123,POPULATE,1N4148W-7-F,,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+D601,lf_rfid,MM3Z33VT1G 33V,Diode_SMD:D_SOD-323,POPULATE,MM3Z33VT1G,,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+R608,lf_rfid,330k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C606,lf_rfid,10n X7R 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R609,lf_rfid,5.1k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C607,lf_rfid,1n C0G 100V,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C608,lf_rfid,220n X7R 100V,Capacitor_SMD:C_0805_2012Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U603,lf_rfid,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+C609,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+Q603,lf_rfid,DMN5L06TK-7,Package_TO_SOT_SMD:SOT-523,POPULATE,DMN5L06TK-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+R610,lf_rfid,440R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R611,lf_rfid,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R612,lf_rfid,330R 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R613,lf_rfid,10R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C610,lf_rfid,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U604,lf_rfid,LMV358AIDGKR,Package_SO:VSSOP-8_3x3mm_P0.65mm,POPULATE,LMV358AIDGKR,,2,5,Engineering allowance,,MPN identified; availability and package still review
+R614,lf_rfid,33k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R615,lf_rfid,33k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C611,lf_rfid,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R616,lf_rfid,1M 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R617,lf_rfid,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R618,lf_rfid,4.7k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C612,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U605,lf_rfid,LMV358AIDGKR,Package_SO:VSSOP-8_3x3mm_P0.65mm,POPULATE,LMV358AIDGKR,,2,5,Engineering allowance,,MPN identified; availability and package still review
+C613,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R620,lf_rfid,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R621,lf_rfid,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R622,lf_rfid,10k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C620,lf_rfid,4.7n C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C621,lf_rfid,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R623,lf_rfid,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R624,lf_rfid,1k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R625,lf_rfid,10k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C622,lf_rfid,4.7n C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C623,lf_rfid,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R626,lf_rfid,33k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R627,lf_rfid,20k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C624,lf_rfid,100p C0G 50V,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.12,0.65,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U606,lf_rfid,LMV331IDCKR,Package_TO_SOT_SMD:SOT-353_SC-70-5,POPULATE,LMV331IDCKR,,1,3,Engineering allowance,,MPN identified; availability and package still review
+R628,lf_rfid,330k 1%,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R629,lf_rfid,10k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C625,lf_rfid,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+D602,lf_rfid,"BAT54S,215",Package_TO_SOT_SMD:SOT-23,POPULATE,"BAT54S,215",,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+D603,lf_rfid,"BAT54S,215",Package_TO_SOT_SMD:SOT-23,POPULATE,"BAT54S,215",,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+U700,gpio_tools,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,POPULATE,SN74CB3T3245PWR,C15298,6,15,Allowance; exact T series for 5V input translation,https://www.lcsc.com/product-detail/C15298.html,MPN identified; availability and package still review
+C700,gpio_tools,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U701,gpio_tools,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,POPULATE,SN74CB3T3245PWR,C15298,6,15,Allowance; exact T series for 5V input translation,https://www.lcsc.com/product-detail/C15298.html,MPN identified; availability and package still review
+C701,gpio_tools,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R700,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R701,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R702,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R703,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R704,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R705,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R706,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R707,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R708,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R709,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R710,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R711,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R712,gpio_tools,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D700,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D701,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D702,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D703,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D704,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D705,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D706,gpio_tools,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+R713,gpio_tools,0R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U702,gpio_tools,TPS2553DBVR,Package_TO_SOT_SMD:SOT-23-6,POPULATE,TPS2553DBVR,C55266,2.5,6,Allowance; retain exact non -1 suffix,https://www.lcsc.com/product-detail/C55266.html,MPN identified; availability and package still review
+R714,gpio_tools,226k 1% / ~120mA limit,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R715,gpio_tools,10k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R716,gpio_tools,10k output bleed,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C702,gpio_tools,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C703,gpio_tools,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+J700,gpio_tools,2x8 2.54mm GPIO 3.3V / 5V-tolerant inputs,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD,POPULATE,,,1,3,SMT 2x8 header; exact height/MPN to freeze,,NO
+R717,gpio_tools,DNP 4.7k I2C pullup,Resistor_SMD:R_0402_1005Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+R718,gpio_tools,DNP 4.7k I2C pullup,Resistor_SMD:R_0402_1005Metric,DNP,,,0,0,Matching/optional part not fitted in initial build,,NO
+TP700,gpio_tools,TARGET_POWER_FAULT_N,TestPoint:TestPoint_Pad_D1.0mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+U710,ir_ibutton,TPS22919DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,POPULATE,TPS22919DCKR,C2149796,1,2,0.1282 USD at 5 pcs; purchase multiple applies,https://www.lcsc.com/product-detail/C2149796.html,MPN identified; availability and package still review
+R7100,ir_ibutton,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C710,ir_ibutton,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C711,ir_ibutton,4.7u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U711,ir_ibutton,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+C712,ir_ibutton,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric_FieldDock_NoSilk,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+Q710,ir_ibutton,DMN2058UW-7,Package_TO_SOT_SMD:SOT-323_SC-70,POPULATE,DMN2058UW-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+R719,ir_ibutton,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R720,ir_ibutton,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R721,ir_ibutton,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D710,ir_ibutton,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,POPULATE,VSMY14940,,2,5,Vishay exact part; engineering allowance,,MPN identified; availability and package still review
+R722,ir_ibutton,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D711,ir_ibutton,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,POPULATE,VSMY14940,,2,5,Vishay exact part; engineering allowance,,MPN identified; availability and package still review
+R723,ir_ibutton,82R 1% 0.25W,Resistor_SMD:R_0805_2012Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D712,ir_ibutton,VSMY14940 940nm,FieldDock:Vishay_VSMY14940,POPULATE,VSMY14940,,2,5,Vishay exact part; engineering allowance,,MPN identified; availability and package still review
+R724,ir_ibutton,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C713,ir_ibutton,1u 10V X7R,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U712,ir_ibutton,TSOP75338TR,FieldDock:Vishay_TSOP753_TR,POPULATE,TSOP75338TR,,5,12,Engineering allowance,,MPN identified; availability and package still review
+R725,ir_ibutton,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+U713,ir_ibutton,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+C714,ir_ibutton,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+Q711,ir_ibutton,DMN2004K-7,Package_TO_SOT_SMD:SOT-23,POPULATE,DMN2004K-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+R726,ir_ibutton,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R727,ir_ibutton,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D713,ir_ibutton,BAT54WS-7-F,Diode_SMD:D_SOD-323,POPULATE,BAT54WS-7-F,,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+R728,ir_ibutton,4.7k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R729,ir_ibutton,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R730,ir_ibutton,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D714,ir_ibutton,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+J710,ir_ibutton,iButton contact probe / DATA GND,FieldDock:Antenna_2Pad_2mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO
+U730,probe_control,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+U731,probe_control,SN74LVC1G04DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G04DBVR,,0.5,1.5,Engineering allowance,,MPN identified; availability and package still review
+R731,probe_control,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R732,probe_control,10k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+C730,probe_control,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C731,probe_control,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C732,probe_control,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+U732,probe_control,SN74CB3T3245PWR,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,POPULATE,SN74CB3T3245PWR,C15298,6,15,Allowance; exact T series for 5V input translation,https://www.lcsc.com/product-detail/C15298.html,MPN identified; availability and package still review
+R733,probe_control,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R734,probe_control,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R735,probe_control,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R736,probe_control,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R737,probe_control,51R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+D730,probe_control,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D731,probe_control,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+D732,probe_control,TPD2EUSB30DRTR,Package_TO_SOT_SMD:Texas_DRT-3,POPULATE,TPD2EUSB30DRTR,,1.3,3.5,Engineering allowance; 17 locations,,MPN identified; availability and package still review
+J730,probe_control,SM08B-GHS-TB(LF)(SN) AUX powered probe,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,POPULATE,SM08B-GHS-TB(LF)(SN),,4,9,JST GH exact part allowance,,MPN identified; availability and package still review
+U740,feedback,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+C740,feedback,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+C741,feedback,100n 16V X7R series AC,Capacitor_SMD:C_0603_1608Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R740,feedback,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R741,feedback,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+BZ740,feedback,PKMCS0909E4000-R1,FieldDock:Murata_PKMCS0909,POPULATE,PKMCS0909E4000-R1,,5,12,Engineering allowance; lifecycle review required,,MPN identified; availability and package still review
+U741,feedback,SN74LVC1G08DBVR,Package_TO_SOT_SMD:SOT-23-5,POPULATE,SN74LVC1G08DBVR,C7666,0.5,1.3,TI only; no unreviewed substitute brand,https://www.lcsc.com/product-detail/C7666.html,MPN identified; availability and package still review
+C742,feedback,100n 10V X7R,Capacitor_SMD:C_0402_1005Metric,POPULATE,,,0.03,0.2,Capacitor allowance; voltage/DC-bias/dielectric qualification required,,NO
+R742,feedback,100R,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+R743,feedback,100k,Resistor_SMD:R_0402_1005Metric,POPULATE,,,0.03,0.12,Generic resistor allowance; tolerance/power must be frozen,,NO
+Q740,feedback,DMN2058UW-7,Package_TO_SOT_SMD:SOT-323_SC-70,POPULATE,DMN2058UW-7,,0.25,1.1,Engineering allowance,,MPN identified; availability and package still review
+D740,feedback,1N4148W-7-F flyback,Diode_SMD:D_SOD-123,POPULATE,1N4148W-7-F,,0.08,0.6,Engineering allowance,,MPN identified; availability and package still review
+J740,feedback,3V 8x2mm coin motor / wire attach,FieldDock:Antenna_2Pad_2mm,PCB_ONLY,,,0,0,No purchased PCB component; external coil/contact/motor is costed separately,,NO

@@ -1,0 +1,183 @@
+{
+  "currency": "CNY",
+  "date": "2026-09-10",
+  "price_type": "Engineering estimate, not supplier quotation",
+  "usd_budget_rate": 7.2,
+  "usd_budget_rate_is_market_rate": false,
+  "board_qty": 2,
+  "footprints": 420,
+  "population": {
+    "POPULATE": 395,
+    "PCB_ONLY": 17,
+    "DNP": 8
+  },
+  "component_per_board": [
+    341.92,
+    740.24
+  ],
+  "two_populated_boards": [
+    1729,
+    4221
+  ],
+  "two_core_units_with_enclosure": [
+    2049,
+    4941
+  ],
+  "excluded": [
+    "iPhone",
+    "external radar/SDR/CSI/UWB/thermal probes",
+    "charger",
+    "ST-Link/debug tools",
+    "RF measurement and tuning labor",
+    "re-spin",
+    "tax reconciliation",
+    "0.15 mm mechanical drill nonstandard surcharge (supplier quote pending)"
+  ],
+  "fixed_allowances": [
+    [
+      "8-layer ENIG filled/capped prototype batch plus impedance setup allowance",
+      300,
+      900
+    ],
+    [
+      "Two-side setup and stencil",
+      400,
+      400
+    ],
+    [
+      "Solder joints for 2 boards, allowance",
+      25,
+      40
+    ],
+    [
+      "Loading, feeders, materials handling",
+      150,
+      900
+    ],
+    [
+      "X-ray / fixture / inspection allowance",
+      80,
+      250
+    ],
+    [
+      "Component minimum quantities and attrition",
+      60,
+      180
+    ],
+    [
+      "Domestic freight allowance",
+      30,
+      70
+    ]
+  ],
+  "external_allowances": [
+    [
+      "Coils, ferrite, coax antenna, motor, microSD and harness, two sets",
+      140,
+      320
+    ],
+    [
+      "Printed enclosure and fasteners, two sets",
+      100,
+      220
+    ],
+    [
+      "Final wire soldering and mechanical assembly, two sets",
+      80,
+      180
+    ]
+  ],
+  "sections": {
+    "mcu": [
+      17,
+      78.48,
+      117.48
+    ],
+    "controls": [
+      15,
+      10.82,
+      32.94
+    ],
+    "core_power": [
+      14,
+      9.44,
+      22.68
+    ],
+    "phone_input": [
+      24,
+      25.32,
+      55.86
+    ],
+    "aux_input": [
+      24,
+      24.05,
+      52.48
+    ],
+    "storage": [
+      29,
+      18.06,
+      40.12
+    ],
+    "power_control": [
+      28,
+      11.34,
+      30.66
+    ],
+    "rf_power_isolation": [
+      20,
+      8.48,
+      22.12
+    ],
+    "subghz": [
+      41,
+      38.61,
+      91.51
+    ],
+    "nfc": [
+      30,
+      43.86,
+      74.44
+    ],
+    "lf_rfid": [
+      63,
+      11.07,
+      37.03
+    ],
+    "gpio_tools": [
+      32,
+      25.23,
+      66.34
+    ],
+    "ir_ibutton": [
+      29,
+      15.42,
+      40.46
+    ],
+    "probe_control": [
+      17,
+      15.2,
+      38.74
+    ],
+    "feedback": [
+      12,
+      6.54,
+      17.38
+    ]
+  },
+  "manufacturing_release": false,
+  "one_core_unit_with_enclosure": [
+    1534.42,
+    3820.24
+  ],
+  "one_unit_basis": "Same setup, feeder, PCB batch and inspection allowances as two-unit estimate; halve only joint allowance and per-unit external items. Battery and respin excluded.",
+  "revision": "K eight-layer engineering estimate",
+  "board_process": "8 layers, JLC08161H-3313, nominal 1.6 mm, ENIG, resin filled/copper capped through vias; 90 ohm USB impedance control; minimum mechanical through drill 0.15 mm, pad diameter 0.30 mm",
+  "not_a_quote": true,
+  "eight_layer_cost_change_basis": "Engineering allowance increased by CNY 100-400 per prototype batch; no supplier quotation or order was requested.",
+  "fine_drill_surcharge": {
+    "status": "SUPPLIER_QUOTE_PENDING",
+    "amount_cny": null,
+    "included_in_numeric_totals": false
+  },
+  "numeric_totals_are_complete": false
+}

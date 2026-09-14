@@ -1,0 +1,349 @@
+{
+  "status": "PASS",
+  "parser": "gerbonara 1.6.3",
+  "coordinate_comparison": {
+    "gerber_endpoint_tolerance_mm": 2e-06,
+    "excellon_axis_tolerance_mm": 0.00051,
+    "excellon_output_resolution_mm": 0.001
+  },
+  "native_board_sha256": "3570d378b55873ae8757477da206c5daa1e623971e03f4a6fb6258432b97eea5",
+  "checked_copper_tracks": 11385,
+  "checked_vias_on_all_eight_layers": 899,
+  "via_drills_mm": {
+    "0.2": 722,
+    "0.15": 177
+  },
+  "pth_objects": 907,
+  "npth_objects": 10,
+  "board_outline_mm": [
+    40,
+    94
+  ],
+  "outline_closed": true,
+  "matched_assembly_positions": 395,
+  "mechanical_holes_match": true,
+  "layers": [
+    {
+      "file": "FD-MAIN-01-F_Cu.gtl",
+      "role": [
+        "top",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 1666,
+        "Line": 2662,
+        "Region": 57
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.7
+        ],
+        [
+          119.7,
+          -53.3
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In1_Cu.g1",
+      "role": [
+        "inner_1",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Region": 1
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.7
+        ],
+        [
+          119.7,
+          -53.3
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In2_Cu.g2",
+      "role": [
+        "inner_2",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Line": 1844
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.475
+        ],
+        [
+          118.675,
+          -56.425000000000004
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In3_Cu.g3",
+      "role": [
+        "inner_3",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Line": 1746
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.475
+        ],
+        [
+          118.675,
+          -56.425000000000004
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In4_Cu.g4",
+      "role": [
+        "inner_4",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Line": 1347
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.475
+        ],
+        [
+          118.675,
+          -56.425000000000004
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In5_Cu.g5",
+      "role": [
+        "inner_5",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Line": 1334
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.475
+        ],
+        [
+          118.675,
+          -56.425000000000004
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-In6_Cu.g6",
+      "role": [
+        "inner_6",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 907,
+        "Region": 1
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.7
+        ],
+        [
+          119.7,
+          -53.3
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-B_Cu.gbl",
+      "role": [
+        "bottom",
+        "copper"
+      ],
+      "objects": {
+        "Flash": 1485,
+        "Line": 2452,
+        "Region": 49
+      },
+      "bounds_mm": [
+        [
+          80.22500000000001,
+          -146.7
+        ],
+        [
+          119.7,
+          -53.3
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-F_Mask.gts",
+      "role": [
+        "top",
+        "mask"
+      ],
+      "objects": {
+        "Region": 1,
+        "Flash": 777
+      },
+      "bounds_mm": [
+        [
+          80.49,
+          -146.475
+        ],
+        [
+          119.26,
+          -55.05
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-B_Mask.gbs",
+      "role": [
+        "bottom",
+        "mask"
+      ],
+      "objects": {
+        "Flash": 596
+      },
+      "bounds_mm": [
+        [
+          80.44,
+          -146.475
+        ],
+        [
+          118.6,
+          -55.8
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-F_Paste.gtp",
+      "role": [
+        "top",
+        "paste"
+      ],
+      "objects": {
+        "Flash": 770
+      },
+      "bounds_mm": [
+        [
+          80.49,
+          -146.475
+        ],
+        [
+          119.26,
+          -55.05
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-B_Paste.gbp",
+      "role": [
+        "bottom",
+        "paste"
+      ],
+      "objects": {
+        "Flash": 577
+      },
+      "bounds_mm": [
+        [
+          80.44,
+          -141.975
+        ],
+        [
+          118.6,
+          -60.699999999999996
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-F_Silkscreen.gto",
+      "role": [
+        "top",
+        "silk"
+      ],
+      "objects": {
+        "Line": 697,
+        "Arc": 28,
+        "Region": 28
+      },
+      "bounds_mm": [
+        [
+          80.655,
+          -146.26
+        ],
+        [
+          119.17,
+          -54.614999999999995
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-B_Silkscreen.gbo",
+      "role": [
+        "bottom",
+        "silk"
+      ],
+      "objects": {
+        "Region": 49,
+        "Line": 729,
+        "Arc": 4
+      },
+      "bounds_mm": [
+        [
+          80.33,
+          -140.95058
+        ],
+        [
+          118.52,
+          -54.661065
+        ]
+      ]
+    },
+    {
+      "file": "FD-MAIN-01-Edge_Cuts.gm1",
+      "role": [
+        "mechanical",
+        "outline"
+      ],
+      "objects": {
+        "Arc": 4,
+        "Line": 4
+      },
+      "bounds_mm": [
+        [
+          79.975,
+          -147.025
+        ],
+        [
+          120.025,
+          -52.975
+        ]
+      ]
+    }
+  ],
+  "parser_warnings": [
+    "manufacturing/fabrication-K\\FD-MAIN-01-PTH.drl:16 \"G90\": G90 header statement found after end of header",
+    "manufacturing/fabrication-K\\FD-MAIN-01-NPTH.drl:16 \"G90\": G90 header statement found after end of header"
+  ],
+  "errors": [],
+  "scope": "Independent parsing: track endpoints/widths and via annuli on every copper layer, outer SMD land centres, every drill and slot position/size, closed board outline, mounting positions and populated-reference placement. Does not certify impedance, solderability, RF behavior or supplier CAM acceptance."
+}

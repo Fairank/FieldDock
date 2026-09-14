@@ -1,0 +1,53 @@
+{
+  "status": "CONNECTED_GEOMETRIC_PATHS",
+  "paths": [
+    {
+      "net": "USB_DP",
+      "paths": [
+        {
+          "connector_pad": "J101.A6#5",
+          "mcu_pad": "U1.29#28",
+          "path_length_mm": 101.8411,
+          "via_count": 5
+        },
+        {
+          "connector_pad": "J101.B6#13",
+          "mcu_pad": "U1.29#28",
+          "path_length_mm": 101.2709,
+          "via_count": 5
+        }
+      ],
+      "bulk_pair_length_mm": 67.0,
+      "total_copper_length_mm": 99.2119
+    },
+    {
+      "net": "USB_DM",
+      "paths": [
+        {
+          "connector_pad": "J101.A7#6",
+          "mcu_pad": "U1.30#29",
+          "path_length_mm": 94.4108,
+          "via_count": 4
+        },
+        {
+          "connector_pad": "J101.B7#14",
+          "mcu_pad": "U1.30#29",
+          "path_length_mm": 92.2712,
+          "via_count": 4
+        }
+      ],
+      "bulk_pair_length_mm": 67.0,
+      "total_copper_length_mm": 97.6831
+    }
+  ],
+  "worst_connector_orientation_length_difference_mm": 9.5699,
+  "assumed_propagation_ps_per_mm": 7,
+  "worst_difference_ps": 66.99,
+  "usb_mode": "STM32WB USB 2.0 full-speed design, 12 Mbit/s",
+  "limits": [
+    "Geometric path estimate through trace centrelines, pad centres and via barrel; not a field solver or compliance test.",
+    "Bulk differential dimensions verified separately against manufacturer calculator.",
+    "Connector transitions, return-current continuity and USB eye/ESD performance require further checks."
+  ],
+  "hardware_tested": false
+}

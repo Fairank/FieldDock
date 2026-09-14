@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "native_board_sha256": "3570d378b55873ae8757477da206c5daa1e623971e03f4a6fb6258432b97eea5",
+  "schematic_assigned_pin_mappings": 1260,
+  "pcb_assigned_pin_mappings": 1260,
+  "model_assigned_pin_mappings": 1260,
+  "intentional_nc_pins": 57,
+  "errors": [],
+  "scope": "KiCad-exported schematic net assignments independently compared with every assigned native PCB pad and final routing model. Intentional single-node NC pins are excluded only when explicitly marked no_connect."
+}
