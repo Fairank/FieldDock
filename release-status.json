@@ -1,0 +1,90 @@
+{
+  "project": "FieldDock",
+  "revision": "K / final route K37",
+  "date": "2026-09-10",
+  "owner": "fairank",
+  "repository": "https://github.com/Fairank/FieldDock",
+  "release_scope": "bare_pcb_engineering_prototype_files",
+  "manufacturing_release": true,
+  "meaning_of_manufacturing_release": "Digitally checked bare PCB engineering prototype file set only; not supplier CAM acceptance, assembly procurement release, tested hardware or production qualification.",
+  "pcb_routing_complete": true,
+  "manufacturing_file_geometry_checked": true,
+  "assembly_release": false,
+  "hardware_tested": false,
+  "apple_certified": false,
+  "full_flipper_feature_parity_tested": false,
+  "pcb_sha256": "3570d378b55873ae8757477da206c5daa1e623971e03f4a6fb6258432b97eea5",
+  "board": {
+    "dimensions_mm": [
+      94,
+      40,
+      1.6
+    ],
+    "copper_layers": 8,
+    "segments": 11385,
+    "vias": 899,
+    "population": {
+      "populate": 395,
+      "dnp": 8,
+      "pcb_only": 17,
+      "additional_fiducials": 4
+    }
+  },
+  "drc": {
+    "tool": "KiCad 10.0.6",
+    "unconnected": 0,
+    "violations": {},
+    "included_severities": [
+      "error",
+      "warning"
+    ],
+    "ignored_checks": [
+      "missing_courtyard",
+      "track_not_centered_on_via",
+      "tuning_profile_track_geometries",
+      "footprint_filters_mismatch",
+      "footprint_type_mismatch"
+    ]
+  },
+  "erc": {
+    "violations": 0
+  },
+  "manufacturing_files": [
+    "manufacturing/fabrication-K/FD-MAIN-01-B_Cu.gbl",
+    "manufacturing/fabrication-K/FD-MAIN-01-B_Mask.gbs",
+    "manufacturing/fabrication-K/FD-MAIN-01-B_Paste.gbp",
+    "manufacturing/fabrication-K/FD-MAIN-01-B_Silkscreen.gbo",
+    "manufacturing/fabrication-K/FD-MAIN-01-drill.rpt",
+    "manufacturing/fabrication-K/FD-MAIN-01-Edge_Cuts.gm1",
+    "manufacturing/fabrication-K/FD-MAIN-01-F_Cu.gtl",
+    "manufacturing/fabrication-K/FD-MAIN-01-F_Mask.gts",
+    "manufacturing/fabrication-K/FD-MAIN-01-F_Paste.gtp",
+    "manufacturing/fabrication-K/FD-MAIN-01-F_Silkscreen.gto",
+    "manufacturing/fabrication-K/FD-MAIN-01-In1_Cu.g1",
+    "manufacturing/fabrication-K/FD-MAIN-01-In2_Cu.g2",
+    "manufacturing/fabrication-K/FD-MAIN-01-In3_Cu.g3",
+    "manufacturing/fabrication-K/FD-MAIN-01-In4_Cu.g4",
+    "manufacturing/fabrication-K/FD-MAIN-01-In5_Cu.g5",
+    "manufacturing/fabrication-K/FD-MAIN-01-In6_Cu.g6",
+    "manufacturing/fabrication-K/FD-MAIN-01-job.gbrjob",
+    "manufacturing/fabrication-K/FD-MAIN-01-NPTH-drl_map.gbr",
+    "manufacturing/fabrication-K/FD-MAIN-01-NPTH.drl",
+    "manufacturing/fabrication-K/FD-MAIN-01-PTH-drl_map.gbr",
+    "manufacturing/fabrication-K/FD-MAIN-01-PTH.drl",
+    "manufacturing/FieldDock-PCB-K-fabrication.zip"
+  ],
+  "independent_export_check": "checks/manufacturing-export-K.json",
+  "final_pad_net_check": "checks/final-pad-net-consistency-K.json",
+  "remaining_gates": [
+    "Supplier CAM acceptance of combined 8-layer / 0.15 mm drill / filled-capped vias / impedance specification",
+    "Freeze procurement MPNs, replacements, assembly rotation conventions and stencil review",
+    "Current-limited bring-up, dual-port source switching and reverse-current measurements",
+    "RF/antenna/coil tuning and performance with case and phone attached",
+    "SDK integration, flashable firmware and iPhone transport implementation",
+    "Mechanical tolerance, port access and attachment validation",
+    "EMC/ESD and applicable product compliance testing"
+  ],
+  "supplier_quote_received": false,
+  "numeric_budget_complete": false,
+  "unquoted_cost": "0.15 mm nonstandard mechanical drill surcharge"
+}

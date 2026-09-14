@@ -1,0 +1,7 @@
+firmware/build/
+__pycache__/
+*.pyc
+*.kicad_prl
+*-backups/
+*.lck
+.DS_Store
