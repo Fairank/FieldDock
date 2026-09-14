@@ -1,0 +1,63 @@
+# SPDX-License-Identifier: LicenseRef-FieldDock-NC-1.0
+name: Import prepared FieldDock source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Validate and extract the reviewed source archive
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path, PurePosixPath
+          import hashlib, stat, zipfile
+          root = Path.cwd().resolve()
+          package = root / 'FieldDock-source-K.zip'
+          expected = '0376bb881e84d0465d93dae7423fd78b76c596e182f2f25429821a224f21a744'
+          assert hashlib.sha256(package.read_bytes()).hexdigest() == expected, 'Archive checksum mismatch'
+          assert not (root / 'cad/FD-MAIN-01.kicad_pcb').exists(), 'Source has already been imported; refusing to overwrite it'
+          with zipfile.ZipFile(package) as archive:
+              prepared = []
+              seen = set()
+              for entry in archive.infolist():
+                  if entry.is_dir():
+                      continue
+                  name = PurePosixPath(entry.filename)
+                  assert not name.is_absolute() and '..' not in name.parts and chr(92) not in entry.filename
+                  assert name.parts and name.parts[0] not in ('.git', '.github'), 'Protected path in archive'
+                  assert entry.filename not in seen, 'Duplicate archive path'
+                  assert not stat.S_ISLNK(entry.external_attr >> 16), 'Symlink in archive'
+                  seen.add(entry.filename)
+                  target = (root / Path(*name.parts)).resolve()
+                  assert target.is_relative_to(root), 'Path escapes repository'
+                  content = archive.read(entry)
+                  if target.exists():
+                      assert target.is_file() and target.read_bytes() == content, 'Existing file differs: ' + entry.filename
+                  prepared.append((target, content))
+              for target, content in prepared:
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_bytes(content)
+          print('Imported', len(prepared), 'reviewed source files')
+          PY
+      - name: Check published evidence and portable driver tests
+        shell: bash
+        run: |
+          python3 tools/verify_artifacts.py
+          cc -std=c99 -Wall -Wextra -Werror -pedantic -Ifirmware/include firmware/src/fd_cc1101.c firmware/src/fd_power.c firmware/tests/test_core.c -o /tmp/fielddock-tests
+          /tmp/fielddock-tests
+      - name: Commit the source tree
+        shell: bash
+        run: |
+          git config user.name 'Fairank'
+          git config user.email '80156249+Fairank@users.noreply.github.com'
+          git add -- .
+          git commit -m 'Publish FieldDock hardware, mechanical CAD and verification evidence'
+          git push origin HEAD:main
+
